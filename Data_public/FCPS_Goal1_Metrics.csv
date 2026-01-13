@@ -1,0 +1,387 @@
+metric,row_type,student_group,value,table_id,period,row_type2,row_label_raw,value_num
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,All Students,74%,1,Baseline,percent,Baseline,74
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,All ML Students (ELP 9),61%,1,Baseline,percent,Baseline,61
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,Econ Dis,53%,1,Baseline,percent,Baseline,53
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,SWD,90%,1,Baseline,percent,Baseline,90
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,504 Plan,84%,1,Baseline,percent,Baseline,84
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,Asian,74%,1,Baseline,percent,Baseline,74
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,Black,76%,1,Baseline,percent,Baseline,76
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,Hispanic,55%,1,Baseline,percent,Baseline,55
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,Multiracial,84%,1,Baseline,percent,Baseline,84
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Baseline,White,87%,1,Baseline,percent,Baseline,87
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,All Students,"9,219",1,Baseline,numerator,Numerator,9219
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,All ML Students (ELP 9),"2,587",1,Baseline,numerator,Numerator,2587
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Econ Dis,"1,723",1,Baseline,numerator,Numerator,1723
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,SWD,"1,576",1,Baseline,numerator,Numerator,1576
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,504 Plan,64,1,Baseline,numerator,Numerator,64
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Asian,"1,628",1,Baseline,numerator,Numerator,1628
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Black,850,1,Baseline,numerator,Numerator,850
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Hispanic,"2,020",1,Baseline,numerator,Numerator,2020
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Multiracial,692,1,Baseline,numerator,Numerator,692
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,White,"3,998",1,Baseline,numerator,Numerator,3998
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,All Students,"12,433",1,Baseline,denominator,Denominator,12433
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,All ML Students (ELP 9),"4,271",1,Baseline,denominator,Denominator,4271
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Econ Dis,"3,278",1,Baseline,denominator,Denominator,3278
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,SWD,"1,760",1,Baseline,denominator,Denominator,1760
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,504 Plan,76,1,Baseline,denominator,Denominator,76
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Asian,"2,186",1,Baseline,denominator,Denominator,2186
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Black,"1,122",1,Baseline,denominator,Denominator,1122
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Hispanic,"3,673",1,Baseline,denominator,Denominator,3673
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Multiracial,820,1,Baseline,denominator,Denominator,820
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,White,"4,586",1,Baseline,denominator,Denominator,4586
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,All Students,78%,1,SY 2023-24,percent,SY 2023-24,78
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,All ML Students (ELP 9),63%,1,SY 2023-24,percent,SY 2023-24,63
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,Econ Dis,57%,1,SY 2023-24,percent,SY 2023-24,57
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,SWD,91%,1,SY 2023-24,percent,SY 2023-24,91
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,504 Plan,87%,1,SY 2023-24,percent,SY 2023-24,87
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,Asian,79%,1,SY 2023-24,percent,SY 2023-24,79
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,Black,81%,1,SY 2023-24,percent,SY 2023-24,81
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,Hispanic,60%,1,SY 2023-24,percent,SY 2023-24,60
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,Multiracial,88%,1,SY 2023-24,percent,SY 2023-24,88
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2023-24,White,91%,1,SY 2023-24,percent,SY 2023-24,91
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,All Students,"9,749",1,SY 2023-24,numerator,Numerator,9749
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,All ML Students (ELP 9),"3,688",1,SY 2023-24,numerator,Numerator,3688
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Econ Dis,"2,159",1,SY 2023-24,numerator,Numerator,2159
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,SWD,"1,862",1,SY 2023-24,numerator,Numerator,1862
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,504 Plan,103,1,SY 2023-24,numerator,Numerator,103
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Asian,"1,629",1,SY 2023-24,numerator,Numerator,1629
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Black,956,1,SY 2023-24,numerator,Numerator,956
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Hispanic,"2,324",1,SY 2023-24,numerator,Numerator,2324
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Multiracial,736,1,SY 2023-24,numerator,Numerator,736
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,White,"4,069",1,SY 2023-24,numerator,Numerator,4069
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,All Students,"12,482",1,SY 2023-24,denominator,Denominator,12482
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,All ML Students (ELP 9),"5,828",1,SY 2023-24,denominator,Denominator,5828
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Econ Dis,"3,785",1,SY 2023-24,denominator,Denominator,3785
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,SWD,"2,049",1,SY 2023-24,denominator,Denominator,2049
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,504 Plan,118,1,SY 2023-24,denominator,Denominator,118
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Asian,"2,067",1,SY 2023-24,denominator,Denominator,2067
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Black,"1,176",1,SY 2023-24,denominator,Denominator,1176
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Hispanic,"3,864",1,SY 2023-24,denominator,Denominator,3864
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Multiracial,835,1,SY 2023-24,denominator,Denominator,835
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,White,"4,492",1,SY 2023-24,denominator,Denominator,4492
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,All Students,82%,1,SY 2024-25,percent,SY 2024-25,82
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,All ML Students (ELP 9),68%,1,SY 2024-25,percent,SY 2024-25,68
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,Econ Dis,61%,1,SY 2024-25,percent,SY 2024-25,61
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,SWD,93%,1,SY 2024-25,percent,SY 2024-25,93
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,504 Plan,92%,1,SY 2024-25,percent,SY 2024-25,92
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,Asian,83%,1,SY 2024-25,percent,SY 2024-25,83
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,Black,87%,1,SY 2024-25,percent,SY 2024-25,87
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,Hispanic,65%,1,SY 2024-25,percent,SY 2024-25,65
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,Multiracial,92%,1,SY 2024-25,percent,SY 2024-25,92
+Percent of Students who Enter Kindergarten with Pre-K Experiences,SY 2024-25,White,91%,1,SY 2024-25,percent,SY 2024-25,91
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,All Students,"9,857",1,SY 2024-25,numerator,Numerator,9857
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,All ML Students (ELP 9),"2,962",1,SY 2024-25,numerator,Numerator,2962
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Econ Dis,"2,265",1,SY 2024-25,numerator,Numerator,2265
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,SWD,"2,056",1,SY 2024-25,numerator,Numerator,2056
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,504 Plan,117,1,SY 2024-25,numerator,Numerator,117
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Asian,"1,621",1,SY 2024-25,numerator,Numerator,1621
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Black,940,1,SY 2024-25,numerator,Numerator,940
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Hispanic,"2,443",1,SY 2024-25,numerator,Numerator,2443
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,Multiracial,804,1,SY 2024-25,numerator,Numerator,804
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Numerator,White,"4,009",1,SY 2024-25,numerator,Numerator,4009
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,All Students,"12,066",1,SY 2024-25,denominator,Denominator,12066
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,All ML Students (ELP 9),"4,358",1,SY 2024-25,denominator,Denominator,4358
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Econ Dis,"3,701",1,SY 2024-25,denominator,Denominator,3701
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,SWD,"2,209",1,SY 2024-25,denominator,Denominator,2209
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,504 Plan,127,1,SY 2024-25,denominator,Denominator,127
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Asian,"1,942",1,SY 2024-25,denominator,Denominator,1942
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Black,"1,083",1,SY 2024-25,denominator,Denominator,1083
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Hispanic,"3,732",1,SY 2024-25,denominator,Denominator,3732
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,Multiracial,870,1,SY 2024-25,denominator,Denominator,870
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Denominator,White,"4,390",1,SY 2024-25,denominator,Denominator,4390
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,All Students,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,All ML Students (ELP 9),80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,Econ Dis,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,SWD,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,504 Plan,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,Asian,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,Black,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,Hispanic,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,Multiracial,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Interim Target,White,80%,1,Interim Target,target_percent,Interim Target,80
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,All ML Students (ELP 9),Met,1,NA,target_status,Performance Target,NA
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,Econ Dis,Progress,1,NA,target_status,Performance Target,NA
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,SWD,Progress,1,NA,target_status,Performance Target,NA
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,504 Plan,Target,1,NA,target_status,Performance Target,NA
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,Asian,Met,1,NA,target_status,Performance Target,NA
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,Black,Target Met,1,NA,target_status,Performance Target,NA
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,Hispanic,Progress,1,NA,target_status,Performance Target,NA
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,Multiracial,Target Met,1,NA,target_status,Performance Target,NA
+Percent of Students who Enter Kindergarten with Pre-K Experiences,Performance Target,White,Target Met,1,NA,target_status,Performance Target,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,653,5,NA,numerator,Numerator,653
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,All Students,484,5,NA,numerator,Numerator,484
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Econ Dis,46,5,NA,numerator,Numerator,46
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,SWD,TS,5,NA,numerator,Numerator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,504 Plan,131,5,NA,numerator,Numerator,131
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Asian,125,5,NA,numerator,Numerator,125
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Black,254,5,NA,numerator,Numerator,254
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Hispanic,19,5,NA,numerator,Numerator,19
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Multiracial,NA,5,NA,numerator,Numerator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,White,124,5,NA,numerator,Numerator,124
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,"1,516",5,NA,denominator,Denominator,1516
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,All Students,"1,158",5,NA,denominator,Denominator,1158
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Econ Dis,188,5,NA,denominator,Denominator,188
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,SWD,TS,5,NA,denominator,Denominator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,504 Plan,210,5,NA,denominator,Denominator,210
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Asian,235,5,NA,denominator,Denominator,235
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Black,816,5,NA,denominator,Denominator,816
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Hispanic,29,5,NA,denominator,Denominator,29
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Multiracial,NA,5,NA,denominator,Denominator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,White,221,5,NA,denominator,Denominator,221
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,38%,5,SY 2023-24,percent,SY 2023-24,38
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,All Students,37%,5,SY 2023-24,percent,SY 2023-24,37
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,Econ Dis,27%,5,SY 2023-24,percent,SY 2023-24,27
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,SWD,TS,5,SY 2023-24,percent,SY 2023-24,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,504 Plan,52%,5,SY 2023-24,percent,SY 2023-24,52
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,Asian,52%,5,SY 2023-24,percent,SY 2023-24,52
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,Black,29%,5,SY 2023-24,percent,SY 2023-24,29
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,Hispanic,60%,5,SY 2023-24,percent,SY 2023-24,60
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,Multiracial,NA,5,SY 2023-24,percent,SY 2023-24,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2023-24,White,48%,5,SY 2023-24,percent,SY 2023-24,48
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,702,5,SY 2023-24,numerator,Numerator,702
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,All Students,595,5,SY 2023-24,numerator,Numerator,595
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Econ Dis,73,5,SY 2023-24,numerator,Numerator,73
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,SWD,TS,5,SY 2023-24,numerator,Numerator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,504 Plan,129,5,SY 2023-24,numerator,Numerator,129
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Asian,130,5,SY 2023-24,numerator,Numerator,130
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Black,294,5,SY 2023-24,numerator,Numerator,294
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Hispanic,26,5,SY 2023-24,numerator,Numerator,26
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Multiracial,NA,5,SY 2023-24,numerator,Numerator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,White,120,5,SY 2023-24,numerator,Numerator,120
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,"1,828",5,SY 2023-24,denominator,Denominator,1828
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,All Students,"1,593",5,SY 2023-24,denominator,Denominator,1593
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Econ Dis,273,5,SY 2023-24,denominator,Denominator,273
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,SWD,TS,5,SY 2023-24,denominator,Denominator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,504 Plan,246,5,SY 2023-24,denominator,Denominator,246
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Asian,249,5,SY 2023-24,denominator,Denominator,249
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Black,"1,031",5,SY 2023-24,denominator,Denominator,1031
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Hispanic,43,5,SY 2023-24,denominator,Denominator,43
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Multiracial,NA,5,SY 2023-24,denominator,Denominator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,White,251,5,SY 2023-24,denominator,Denominator,251
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,45%,5,SY 2024-25,percent,SY 2024-25,45
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,All Students,47%,5,SY 2024-25,percent,SY 2024-25,47
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,Econ Dis,33%,5,SY 2024-25,percent,SY 2024-25,33
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,SWD,TS,5,SY 2024-25,percent,SY 2024-25,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,504 Plan,59%,5,SY 2024-25,percent,SY 2024-25,59
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,Asian,59%,5,SY 2024-25,percent,SY 2024-25,59
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,Black,37%,5,SY 2024-25,percent,SY 2024-25,37
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,Hispanic,42%,5,SY 2024-25,percent,SY 2024-25,42
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,Multiracial,NA,5,SY 2024-25,percent,SY 2024-25,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,SY 2024-25,White,49%,5,SY 2024-25,percent,SY 2024-25,49
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,"1,126",5,SY 2024-25,numerator,Numerator,1126
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,All Students,987,5,SY 2024-25,numerator,Numerator,987
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Econ Dis,292,5,SY 2024-25,numerator,Numerator,292
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,SWD,TS,5,SY 2024-25,numerator,Numerator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,504 Plan,206,5,SY 2024-25,numerator,Numerator,206
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Asian,186,5,SY 2024-25,numerator,Numerator,186
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Black,450,5,SY 2024-25,numerator,Numerator,450
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Hispanic,25,5,SY 2024-25,numerator,Numerator,25
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,Multiracial,NA,5,SY 2024-25,numerator,Numerator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Numerator,White,257,5,SY 2024-25,numerator,Numerator,257
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,"2,484",5,SY 2024-25,denominator,Denominator,2484
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,All Students,"2,106",5,SY 2024-25,denominator,Denominator,2106
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Econ Dis,873,5,SY 2024-25,denominator,Denominator,873
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,SWD,TS,5,SY 2024-25,denominator,Denominator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,504 Plan,351,5,SY 2024-25,denominator,Denominator,351
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Asian,315,5,SY 2024-25,denominator,Denominator,315
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Black,"1,231",5,SY 2024-25,denominator,Denominator,1231
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Hispanic,59,5,SY 2024-25,denominator,Denominator,59
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,Multiracial,NA,5,SY 2024-25,denominator,Denominator,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Denominator,White,522,5,SY 2024-25,denominator,Denominator,522
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,Self-Regulation in the Spring Baseline 43% 42% 24% TS 62% 53% 31% 64%,58%,5,SY 2024-25,other,Target,58
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,All Students,57%,5,SY 2024-25,other,Target,57
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,Econ Dis,44%,5,SY 2024-25,other,Target,44
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,SWD,N/A,5,SY 2024-25,other,Target,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,504 Plan,71%,5,SY 2024-25,other,Target,71
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,Asian,65%,5,SY 2024-25,other,Target,65
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,Black,49%,5,SY 2024-25,other,Target,49
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,Hispanic,73%,5,SY 2024-25,other,Target,73
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,Multiracial,NA,5,SY 2024-25,other,Target,NA
+Percent of Four-year old Students in FCPS Pre-K Programs who Meet the Benchmark for Both Academic and,Target,White,67%,5,SY 2024-25,other,Target,67
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,All Students,80%,14,Baseline,percent,Baseline,80
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,All ML (ELP Students 1-4),70%,14,Baseline,percent,Baseline,70
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Econ Dis,65%,14,Baseline,percent,Baseline,65
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,SWD,35%,14,Baseline,percent,Baseline,35
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,504 Plan,80%,14,Baseline,percent,Baseline,80
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Asian,90%,14,Baseline,percent,Baseline,90
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Black,67%,14,Baseline,percent,Baseline,67
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Hispanic,73%,14,Baseline,percent,Baseline,73
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Multiracial,82%,14,Baseline,percent,Baseline,82
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,White,83%,14,Baseline,percent,Baseline,83
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,All Students,"11,202",14,Baseline,numerator,Numerator,11202
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,All ML (ELP Students 1-4),"3,239",14,Baseline,numerator,Numerator,3239
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Econ Dis,"1,274",14,Baseline,numerator,Numerator,1274
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,SWD,722,14,Baseline,numerator,Numerator,722
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,504 Plan,626,14,Baseline,numerator,Numerator,626
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Asian,"2,551",14,Baseline,numerator,Numerator,2551
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Black,983,14,Baseline,numerator,Numerator,983
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Hispanic,"2,811",14,Baseline,numerator,Numerator,2811
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Multiracial,680,14,Baseline,numerator,Numerator,680
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,White,"4,128",14,Baseline,numerator,Numerator,4128
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,All Students,"14,028",14,Baseline,denominator,Denominator,14028
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,All ML (ELP Students 1-4),"4,636",14,Baseline,denominator,Denominator,4636
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Econ Dis,"1,975",14,Baseline,denominator,Denominator,1975
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,SWD,"2,068",14,Baseline,denominator,Denominator,2068
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,504 Plan,781,14,Baseline,denominator,Denominator,781
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Asian,"2,823",14,Baseline,denominator,Denominator,2823
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Black,"1,458",14,Baseline,denominator,Denominator,1458
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Hispanic,"3,855",14,Baseline,denominator,Denominator,3855
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Multiracial,830,14,Baseline,denominator,Denominator,830
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,White,"5,000",14,Baseline,denominator,Denominator,5000
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,All Students,83%,14,SY 2023-24,percent,SY 2023-24,83
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,All ML (ELP Students 1-4),76%,14,SY 2023-24,percent,SY 2023-24,76
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Econ Dis,76%,14,SY 2023-24,percent,SY 2023-24,76
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,SWD,41%,14,SY 2023-24,percent,SY 2023-24,41
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,504 Plan,82%,14,SY 2023-24,percent,SY 2023-24,82
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Asian,92%,14,SY 2023-24,percent,SY 2023-24,92
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Black,71%,14,SY 2023-24,percent,SY 2023-24,71
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Hispanic,78%,14,SY 2023-24,percent,SY 2023-24,78
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Multiracial,82%,14,SY 2023-24,percent,SY 2023-24,82
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,White,85%,14,SY 2023-24,percent,SY 2023-24,85
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,All Students,"11,002",14,SY 2023-24,numerator,Numerator,11002
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,All ML (ELP Students 1-4),"4,011",14,SY 2023-24,numerator,Numerator,4011
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Econ Dis,"1,743",14,SY 2023-24,numerator,Numerator,1743
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,SWD,823,14,SY 2023-24,numerator,Numerator,823
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,504 Plan,717,14,SY 2023-24,numerator,Numerator,717
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Asian,"2,407",14,SY 2023-24,numerator,Numerator,2407
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Black,957,14,SY 2023-24,numerator,Numerator,957
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Hispanic,"2,845",14,SY 2023-24,numerator,Numerator,2845
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Multiracial,717,14,SY 2023-24,numerator,Numerator,717
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,White,"4,035",14,SY 2023-24,numerator,Numerator,4035
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,All Students,"13,302",14,SY 2023-24,denominator,Denominator,13302
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,All ML (ELP Students 1-4),"5,270",14,SY 2023-24,denominator,Denominator,5270
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Econ Dis,"2,300",14,SY 2023-24,denominator,Denominator,2300
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,SWD,"1,997",14,SY 2023-24,denominator,Denominator,1997
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,504 Plan,872,14,SY 2023-24,denominator,Denominator,872
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Asian,"2,620",14,SY 2023-24,denominator,Denominator,2620
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Black,"1,355",14,SY 2023-24,denominator,Denominator,1355
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Hispanic,"3,635",14,SY 2023-24,denominator,Denominator,3635
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Multiracial,870,14,SY 2023-24,denominator,Denominator,870
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,White,"4,772",14,SY 2023-24,denominator,Denominator,4772
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,All Students,85%,14,SY 2024-25,percent,SY 2024-25,85
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,All ML (ELP Students 1-4),79%,14,SY 2024-25,percent,SY 2024-25,79
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Econ Dis,79%,14,SY 2024-25,percent,SY 2024-25,79
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,SWD,46%,14,SY 2024-25,percent,SY 2024-25,46
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,504 Plan,87%,14,SY 2024-25,percent,SY 2024-25,87
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Asian,95%,14,SY 2024-25,percent,SY 2024-25,95
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Black,72%,14,SY 2024-25,percent,SY 2024-25,72
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Hispanic,83%,14,SY 2024-25,percent,SY 2024-25,83
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Multiracial,87%,14,SY 2024-25,percent,SY 2024-25,87
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,White,86%,14,SY 2024-25,percent,SY 2024-25,86
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,All Students,"11,718",14,SY 2024-25,numerator,Numerator,11718
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,All ML (ELP Students 1-4),"3,434",14,SY 2024-25,numerator,Numerator,3434
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Econ Dis,"2,008",14,SY 2024-25,numerator,Numerator,2008
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,SWD,955,14,SY 2024-25,numerator,Numerator,955
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,504 Plan,820,14,SY 2024-25,numerator,Numerator,820
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Asian,"2,537",14,SY 2024-25,numerator,Numerator,2537
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Black,"1,007",14,SY 2024-25,numerator,Numerator,1007
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Hispanic,"3,107",14,SY 2024-25,numerator,Numerator,3107
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,Multiracial,786,14,SY 2024-25,numerator,Numerator,786
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Numerator,White,"4,227",14,SY 2024-25,numerator,Numerator,4227
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,All Students,"13,714",14,SY 2024-25,denominator,Denominator,13714
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,All ML (ELP Students 1-4),"4,360",14,SY 2024-25,denominator,Denominator,4360
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Econ Dis,"2,540",14,SY 2024-25,denominator,Denominator,2540
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,SWD,"2,067",14,SY 2024-25,denominator,Denominator,2067
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,504 Plan,942,14,SY 2024-25,denominator,Denominator,942
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Asian,"2,674",14,SY 2024-25,denominator,Denominator,2674
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Black,"1,395",14,SY 2024-25,denominator,Denominator,1395
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Hispanic,"3,766",14,SY 2024-25,denominator,Denominator,3766
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,Multiracial,899,14,SY 2024-25,denominator,Denominator,899
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Denominator,White,"4,915",14,SY 2024-25,denominator,Denominator,4915
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,All Students,84%,14,SY 2024-25,other,Target,84
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,All ML (ELP Students 1-4),77%,14,SY 2024-25,other,Target,77
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Econ Dis,74%,14,SY 2024-25,other,Target,74
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,SWD,52%,14,SY 2024-25,other,Target,52
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,504 Plan,84%,14,SY 2024-25,other,Target,84
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Asian,91%,14,SY 2024-25,other,Target,91
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Black,75%,14,SY 2024-25,other,Target,75
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Hispanic,79%,14,SY 2024-25,other,Target,79
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Multiracial,86%,14,SY 2024-25,other,Target,86
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,White,86%,14,SY 2024-25,other,Target,86
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,All ML (ELP Students 1-4),Met,14,NA,target_status,Performance Target,NA
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,Econ Dis,Target,14,NA,target_status,Performance Target,NA
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,SWD,Met,14,NA,target_status,Performance Target,NA
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,504 Plan,Target,14,NA,target_status,Performance Target,NA
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,Asian,Met,14,NA,target_status,Performance Target,NA
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,Black,Progress,14,NA,target_status,Performance Target,NA
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,Hispanic,Progress,14,NA,target_status,Performance Target,NA
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,Multiracial,Progress,14,NA,target_status,Performance Target,NA
+Percent of Students With at Least one High School Credit Before Entering 9th Grade,Performance Target,White,Target Met,14,NA,target_status,Performance Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,All Students,80%,15,Baseline,percent,Baseline,80
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,All ML (ELP Students 1-4),70%,15,Baseline,percent,Baseline,70
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Econ Dis,65%,15,Baseline,percent,Baseline,65
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,SWD,35%,15,Baseline,percent,Baseline,35
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,504 Plan,80%,15,Baseline,percent,Baseline,80
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Asian,90%,15,Baseline,percent,Baseline,90
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Black,67%,15,Baseline,percent,Baseline,67
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Hispanic,73%,15,Baseline,percent,Baseline,73
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,Multiracial,82%,15,Baseline,percent,Baseline,82
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Baseline,White,83%,15,Baseline,percent,Baseline,83
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,All ML (ELP Students 1-4),Actual,15,SY 2023-24,percent,SY 2023-24,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Econ Dis,83%,15,SY 2023-24,percent,SY 2023-24,83
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,SWD,76%,15,SY 2023-24,percent,SY 2023-24,76
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,504 Plan,76%,15,SY 2023-24,percent,SY 2023-24,76
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Asian,41%,15,SY 2023-24,percent,SY 2023-24,41
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Black,82%,15,SY 2023-24,percent,SY 2023-24,82
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Hispanic,92%,15,SY 2023-24,percent,SY 2023-24,92
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,Multiracial,71%,15,SY 2023-24,percent,SY 2023-24,71
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2023-24,White,85%,15,SY 2023-24,percent,SY 2023-24,85
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,All ML (ELP Students 1-4),Target,15,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Econ Dis,84%,15,SY 2024-25,percent,SY 2024-25,84
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,SWD,77%,15,SY 2024-25,percent,SY 2024-25,77
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,504 Plan,74%,15,SY 2024-25,percent,SY 2024-25,74
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Asian,52%,15,SY 2024-25,percent,SY 2024-25,52
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Black,84%,15,SY 2024-25,percent,SY 2024-25,84
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Hispanic,91%,15,SY 2024-25,percent,SY 2024-25,91
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Multiracial,75%,15,SY 2024-25,percent,SY 2024-25,75
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,White,86%,15,SY 2024-25,percent,SY 2024-25,86
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,All ML (ELP Students 1-4),Actual,15,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Econ Dis,85%,15,SY 2024-25,percent,SY 2024-25,85
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,SWD,79%,15,SY 2024-25,percent,SY 2024-25,79
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,504 Plan,79%,15,SY 2024-25,percent,SY 2024-25,79
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Asian,46%,15,SY 2024-25,percent,SY 2024-25,46
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Black,87%,15,SY 2024-25,percent,SY 2024-25,87
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Hispanic,95%,15,SY 2024-25,percent,SY 2024-25,95
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,Multiracial,72%,15,SY 2024-25,percent,SY 2024-25,72
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2024-25,White,86%,15,SY 2024-25,percent,SY 2024-25,86
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,All ML (ELP Students 1-4),Target,15,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,Econ Dis,86%,15,SY 2025-26,percent,SY 2025-26,86
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,SWD,80%,15,SY 2025-26,percent,SY 2025-26,80
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,504 Plan,77%,15,SY 2025-26,percent,SY 2025-26,77
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,Asian,60%,15,SY 2025-26,percent,SY 2025-26,60
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,Black,86%,15,SY 2025-26,percent,SY 2025-26,86
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,Hispanic,92%,15,SY 2025-26,percent,SY 2025-26,92
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,Multiracial,78%,15,SY 2025-26,percent,SY 2025-26,78
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,SY 2025-26,White,87%,15,SY 2025-26,percent,SY 2025-26,87
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,All ML (ELP Students 1-4),Annual,15,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Econ Dis,NA,15,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,SWD,NA,15,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,504 Plan,NA,15,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Asian,NA,15,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Black,NA,15,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Hispanic,NA,15,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,Multiracial,NA,15,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students With at Least one High School Credit Before Entering 9th Grade,Target,White,NA,15,SY 2025-26,other,Target,NA
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),Numerator,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,479,20,NA,numerator,Numerator,479
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),Denominator,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,"1,099",20,NA,denominator,Denominator,1099
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),SY 2023-24,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,47%,20,SY 2023-24,percent,SY 2023-24,47
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),Numerator,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,548,20,SY 2023-24,numerator,Numerator,548
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),Denominator,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,"1,162",20,SY 2023-24,denominator,Denominator,1162
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),SY 2024-25,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,51%,20,SY 2024-25,percent,SY 2024-25,51
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),Numerator,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,639,20,SY 2024-25,numerator,Numerator,639
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),Denominator,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,"1,245",20,SY 2024-25,denominator,Denominator,1245
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (5th Rising to 6th),Target,All Econ Dis ML (ELP SWD 504 Plan Asian Black Baseline 44% 34% 14% 19% 57% 60% 53%,59%,20,SY 2024-25,other,Target,59
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),Numerator,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,"7,969",23,NA,numerator,Numerator,7969
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),Denominator,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,"11,026",23,NA,denominator,Denominator,11026
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),SY 2023-24,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,75%,23,SY 2023-24,percent,SY 2023-24,75
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),Numerator,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,"8,653",23,SY 2023-24,numerator,Numerator,8653
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),Denominator,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,"11,497",23,SY 2023-24,denominator,Denominator,11497
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),SY 2024-25,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,78%,23,SY 2024-25,percent,SY 2024-25,78
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),Numerator,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,"9,284",23,SY 2024-25,numerator,Numerator,9284
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),Denominator,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,"11,964",23,SY 2024-25,denominator,Denominator,11964
+Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),Target,ML (ELP All Econ Dis SWD 504 Plan Asian Black Baseline 72% 44% 16% 40% 79% 86% 58%,79%,23,SY 2024-25,other,Target,79
+Growth Targets - Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),SY 2023-24,ML (ELP All Econ Dis SWD 504 Plan Asian Black Hispanic Multiracial Baseline 72% 44% 16% 40% 79% 86% 58% 46% 83%,Actual,24,SY 2023-24,percent,SY 2023-24,NA
+Growth Targets - Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),SY 2024-25,ML (ELP All Econ Dis SWD 504 Plan Asian Black Hispanic Multiracial Baseline 72% 44% 16% 40% 79% 86% 58% 46% 83%,Target,24,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),SY 2024-25,ML (ELP All Econ Dis SWD 504 Plan Asian Black Hispanic Multiracial Baseline 72% 44% 16% 40% 79% 86% 58% 46% 83%,Actual,24,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),SY 2025-26,ML (ELP All Econ Dis SWD 504 Plan Asian Black Hispanic Multiracial Baseline 72% 44% 16% 40% 79% 86% 58% 46% 83%,Target,24,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Rising Middle Schoolers Passing Reading and Math SOLs (6th Rising to 7th),Target,ML (ELP All Econ Dis SWD 504 Plan Asian Black Hispanic Multiracial Baseline 72% 44% 16% 40% 79% 86% 58% 46% 83%,Annual,24,SY 2025-26,other,Target,NA
