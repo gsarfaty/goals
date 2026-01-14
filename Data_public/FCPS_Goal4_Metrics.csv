@@ -1,0 +1,13 @@
+metric,row_type,student_group,value,table_id,period,row_type2,row_label_raw,value_num
+"Percent of elementary school students who report no barriers to accessing desired programs in the arts,",Baseline,"STEAM, or world languages. (Student Experience Survey) Econ Dis SWD 504 Plan Asian Black Hispanic Multiracial",%,2,Baseline,percent,Baseline,NA
+"Percent of elementary school students who report no barriers to accessing desired programs in the arts,",Baseline,All ML,NA,2,Baseline,percent,Baseline,NA
+"Percent of elementary school students who report no barriers to accessing desired programs in the arts,",Baseline,ML,NA,2,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,All ML Students (1-4),%,8,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,Econ Dis,NA,8,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,SWD,NA,8,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,504 Plan,NA,8,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,Asian,NA,8,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,Black,NA,8,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,Hispanic,NA,8,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,Multiracial,NA,8,Baseline,percent,Baseline,NA
+Percent of students with a required reading plan who are receiving services.,Baseline,White,NA,8,Baseline,percent,Baseline,NA

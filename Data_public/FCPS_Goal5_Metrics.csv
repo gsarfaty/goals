@@ -1,0 +1,1281 @@
+metric,row_type,student_group,value,table_id,period,row_type2,row_label_raw,value_num
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,All Students,35%,1,Baseline,percent,Baseline,35
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,Econ Dis,42%,1,Baseline,percent,Baseline,42
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,ML,36%,1,Baseline,percent,Baseline,36
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,SWD,35%,1,Baseline,percent,Baseline,35
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,504 Plan,32%,1,Baseline,percent,Baseline,32
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,Asian,31%,1,Baseline,percent,Baseline,31
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,Black,45%,1,Baseline,percent,Baseline,45
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,Hispanic,39%,1,Baseline,percent,Baseline,39
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,Multiracial,31%,1,Baseline,percent,Baseline,31
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Baseline,White,33%,1,Baseline,percent,Baseline,33
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,All Students,"4,907",1,Baseline,numerator,Numerator,4907
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Econ Dis,"1,652",1,Baseline,numerator,Numerator,1652
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,ML,621,1,Baseline,numerator,Numerator,621
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,SWD,639,1,Baseline,numerator,Numerator,639
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,504 Plan,336,1,Baseline,numerator,Numerator,336
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Asian,960,1,Baseline,numerator,Numerator,960
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Black,655,1,Baseline,numerator,Numerator,655
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Hispanic,"1,246",1,Baseline,numerator,Numerator,1246
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Multiracial,232,1,Baseline,numerator,Numerator,232
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,White,"1,798",1,Baseline,numerator,Numerator,1798
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,All Students,"13,909",1,Baseline,denominator,Denominator,13909
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Econ Dis,"3,921",1,Baseline,denominator,Denominator,3921
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,ML,"1,748",1,Baseline,denominator,Denominator,1748
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,SWD,"1,823",1,Baseline,denominator,Denominator,1823
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,504 Plan,"1,035",1,Baseline,denominator,Denominator,1035
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Asian,"3,048",1,Baseline,denominator,Denominator,3048
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Black,"1,456",1,Baseline,denominator,Denominator,1456
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Hispanic,"3,196",1,Baseline,denominator,Denominator,3196
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Multiracial,755,1,Baseline,denominator,Denominator,755
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,White,"5,411",1,Baseline,denominator,Denominator,5411
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,All Students,36%,1,SY 2023-24,percent,SY 2023-24,36
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,Econ Dis,41%,1,SY 2023-24,percent,SY 2023-24,41
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,ML,33%,1,SY 2023-24,percent,SY 2023-24,33
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,SWD,33%,1,SY 2023-24,percent,SY 2023-24,33
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,504 Plan,33%,1,SY 2023-24,percent,SY 2023-24,33
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,Asian,35%,1,SY 2023-24,percent,SY 2023-24,35
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,Black,41%,1,SY 2023-24,percent,SY 2023-24,41
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,Hispanic,39%,1,SY 2023-24,percent,SY 2023-24,39
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,Multiracial,33%,1,SY 2023-24,percent,SY 2023-24,33
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2023-24,White,33%,1,SY 2023-24,percent,SY 2023-24,33
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,All Students,"5,054",1,SY 2023-24,numerator,Numerator,5054
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Econ Dis,"1,956",1,SY 2023-24,numerator,Numerator,1956
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,ML,574,1,SY 2023-24,numerator,Numerator,574
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,SWD,594,1,SY 2023-24,numerator,Numerator,594
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,504 Plan,409,1,SY 2023-24,numerator,Numerator,409
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Asian,"1,049",1,SY 2023-24,numerator,Numerator,1049
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Black,609,1,SY 2023-24,numerator,Numerator,609
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Hispanic,"1,364",1,SY 2023-24,numerator,Numerator,1364
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Multiracial,264,1,SY 2023-24,numerator,Numerator,264
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,White,"1,746",1,SY 2023-24,numerator,Numerator,1746
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,All Students,"14,071",1,SY 2023-24,denominator,Denominator,14071
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Econ Dis,"4,819",1,SY 2023-24,denominator,Denominator,4819
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,ML,"1,731",1,SY 2023-24,denominator,Denominator,1731
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,SWD,"1,802",1,SY 2023-24,denominator,Denominator,1802
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,504 Plan,"1,222",1,SY 2023-24,denominator,Denominator,1222
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Asian,"3,005",1,SY 2023-24,denominator,Denominator,3005
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Black,"1,477",1,SY 2023-24,denominator,Denominator,1477
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Hispanic,"3,499",1,SY 2023-24,denominator,Denominator,3499
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Multiracial,812,1,SY 2023-24,denominator,Denominator,812
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,White,"5,218",1,SY 2023-24,denominator,Denominator,5218
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,All Students,37%,1,SY 2024-25,percent,SY 2024-25,37
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,Econ Dis,39%,1,SY 2024-25,percent,SY 2024-25,39
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,ML,34%,1,SY 2024-25,percent,SY 2024-25,34
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,SWD,32%,1,SY 2024-25,percent,SY 2024-25,32
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,504 Plan,34%,1,SY 2024-25,percent,SY 2024-25,34
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,Asian,35%,1,SY 2024-25,percent,SY 2024-25,35
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,Black,41%,1,SY 2024-25,percent,SY 2024-25,41
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,Hispanic,38%,1,SY 2024-25,percent,SY 2024-25,38
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,Multiracial,35%,1,SY 2024-25,percent,SY 2024-25,35
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,SY 2024-25,White,37%,1,SY 2024-25,percent,SY 2024-25,37
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,All Students,"5,347",1,SY 2024-25,numerator,Numerator,5347
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Econ Dis,"1,711",1,SY 2024-25,numerator,Numerator,1711
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,ML,737,1,SY 2024-25,numerator,Numerator,737
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,SWD,610,1,SY 2024-25,numerator,Numerator,610
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,504 Plan,426,1,SY 2024-25,numerator,Numerator,426
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Asian,"1,035",1,SY 2024-25,numerator,Numerator,1035
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Black,638,1,SY 2024-25,numerator,Numerator,638
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Hispanic,"1,485",1,SY 2024-25,numerator,Numerator,1485
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,Multiracial,293,1,SY 2024-25,numerator,Numerator,293
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Numerator,White,"1,875",1,SY 2024-25,numerator,Numerator,1875
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,All Students,"14,435",1,SY 2024-25,denominator,Denominator,14435
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Econ Dis,"4,355",1,SY 2024-25,denominator,Denominator,4355
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,ML,"2,195",1,SY 2024-25,denominator,Denominator,2195
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,SWD,"1,892",1,SY 2024-25,denominator,Denominator,1892
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,504 Plan,"1,267",1,SY 2024-25,denominator,Denominator,1267
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Asian,"2,977",1,SY 2024-25,denominator,Denominator,2977
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Black,"1,561",1,SY 2024-25,denominator,Denominator,1561
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Hispanic,"3,942",1,SY 2024-25,denominator,Denominator,3942
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,Multiracial,835,1,SY 2024-25,denominator,Denominator,835
+Percent of Students in the Senior Cohort who Earned CTE Completer Status Before Graduating,Denominator,White,"5,061",1,SY 2024-25,denominator,Denominator,5061
+Percent of Students who Complete a POG/POL,Baseline,All Students,3%,2,Baseline,percent,Baseline,3
+Percent of Students who Complete a POG/POL,Baseline,Econ Dis,2%,2,Baseline,percent,Baseline,2
+Percent of Students who Complete a POG/POL,Baseline,ML,2%,2,Baseline,percent,Baseline,2
+Percent of Students who Complete a POG/POL,Baseline,SWD,2%,2,Baseline,percent,Baseline,2
+Percent of Students who Complete a POG/POL,Baseline,504 Plan,NA,2,Baseline,percent,Baseline,NA
+Percent of Students who Complete a POG/POL,Baseline,Asian,3%,2,Baseline,percent,Baseline,3
+Percent of Students who Complete a POG/POL,Baseline,Black,3%,2,Baseline,percent,Baseline,3
+Percent of Students who Complete a POG/POL,Baseline,Hispanic,2%,2,Baseline,percent,Baseline,2
+Percent of Students who Complete a POG/POL,Baseline,Multiracial,2%,2,Baseline,percent,Baseline,2
+Percent of Students who Complete a POG/POL,Baseline,White,3%,2,Baseline,percent,Baseline,3
+Percent of Students who Complete a POG/POL,Numerator,All Students,"4,745",2,Baseline,numerator,Numerator,4745
+Percent of Students who Complete a POG/POL,Numerator,Econ Dis,"1,068",2,Baseline,numerator,Numerator,1068
+Percent of Students who Complete a POG/POL,Numerator,ML,"1,096",2,Baseline,numerator,Numerator,1096
+Percent of Students who Complete a POG/POL,Numerator,SWD,637,2,Baseline,numerator,Numerator,637
+Percent of Students who Complete a POG/POL,Numerator,504 Plan,NA,2,Baseline,numerator,Numerator,NA
+Percent of Students who Complete a POG/POL,Numerator,Asian,251,2,Baseline,numerator,Numerator,251
+Percent of Students who Complete a POG/POL,Numerator,Black,"1,024",2,Baseline,numerator,Numerator,1024
+Percent of Students who Complete a POG/POL,Numerator,Hispanic,330,2,Baseline,numerator,Numerator,330
+Percent of Students who Complete a POG/POL,Numerator,Multiracial,938,2,Baseline,numerator,Numerator,938
+Percent of Students who Complete a POG/POL,Numerator,White,358,2,Baseline,numerator,Numerator,358
+Percent of Students who Complete a POG/POL,Denominator,All Students,"176,552",2,Baseline,denominator,Denominator,176552
+Percent of Students who Complete a POG/POL,Denominator,Econ Dis,"57,605",2,Baseline,denominator,Denominator,57605
+Percent of Students who Complete a POG/POL,Denominator,ML,"48,693",2,Baseline,denominator,Denominator,48693
+Percent of Students who Complete a POG/POL,Denominator,SWD,"26,603",2,Baseline,denominator,Denominator,26603
+Percent of Students who Complete a POG/POL,Denominator,504 Plan,NA,2,Baseline,denominator,Denominator,NA
+Percent of Students who Complete a POG/POL,Denominator,Asian,"8,174",2,Baseline,denominator,Denominator,8174
+Percent of Students who Complete a POG/POL,Denominator,Black,"34,077",2,Baseline,denominator,Denominator,34077
+Percent of Students who Complete a POG/POL,Denominator,Hispanic,"17,309",2,Baseline,denominator,Denominator,17309
+Percent of Students who Complete a POG/POL,Denominator,Multiracial,"48,907",2,Baseline,denominator,Denominator,48907
+Percent of Students who Complete a POG/POL,Denominator,White,"10,998",2,Baseline,denominator,Denominator,10998
+Percent of Students who Complete a POG/POL,SY 2023-24,All Students,6%,2,SY 2023-24,percent,SY 2023-24,6
+Percent of Students who Complete a POG/POL,SY 2023-24,Econ Dis,4%,2,SY 2023-24,percent,SY 2023-24,4
+Percent of Students who Complete a POG/POL,SY 2023-24,ML,5%,2,SY 2023-24,percent,SY 2023-24,5
+Percent of Students who Complete a POG/POL,SY 2023-24,SWD,5%,2,SY 2023-24,percent,SY 2023-24,5
+Percent of Students who Complete a POG/POL,SY 2023-24,504 Plan,NA,2,SY 2023-24,percent,SY 2023-24,NA
+Percent of Students who Complete a POG/POL,SY 2023-24,Asian,7%,2,SY 2023-24,percent,SY 2023-24,7
+Percent of Students who Complete a POG/POL,SY 2023-24,Black,7%,2,SY 2023-24,percent,SY 2023-24,7
+Percent of Students who Complete a POG/POL,SY 2023-24,Hispanic,4%,2,SY 2023-24,percent,SY 2023-24,4
+Percent of Students who Complete a POG/POL,SY 2023-24,Multiracial,4%,2,SY 2023-24,percent,SY 2023-24,4
+Percent of Students who Complete a POG/POL,SY 2023-24,White,7%,2,SY 2023-24,percent,SY 2023-24,7
+Percent of Students who Complete a POG/POL,Numerator,All Students,"10,242",2,SY 2023-24,numerator,Numerator,10242
+Percent of Students who Complete a POG/POL,Numerator,Econ Dis,"2,848",2,SY 2023-24,numerator,Numerator,2848
+Percent of Students who Complete a POG/POL,Numerator,ML,"2,454",2,SY 2023-24,numerator,Numerator,2454
+Percent of Students who Complete a POG/POL,Numerator,SWD,"1,448",2,SY 2023-24,numerator,Numerator,1448
+Percent of Students who Complete a POG/POL,Numerator,504 Plan,NA,2,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Complete a POG/POL,Numerator,Asian,630,2,SY 2023-24,numerator,Numerator,630
+Percent of Students who Complete a POG/POL,Numerator,Black,"2,359",2,SY 2023-24,numerator,Numerator,2359
+Percent of Students who Complete a POG/POL,Numerator,Hispanic,732,2,SY 2023-24,numerator,Numerator,732
+Percent of Students who Complete a POG/POL,Numerator,Multiracial,"2,083",2,SY 2023-24,numerator,Numerator,2083
+Percent of Students who Complete a POG/POL,Numerator,White,789,2,SY 2023-24,numerator,Numerator,789
+Percent of Students who Complete a POG/POL,Denominator,All Students,"177,135",2,SY 2023-24,denominator,Denominator,177135
+Percent of Students who Complete a POG/POL,Denominator,Econ Dis,"72,412",2,SY 2023-24,denominator,Denominator,72412
+Percent of Students who Complete a POG/POL,Denominator,ML,"49,531",2,SY 2023-24,denominator,Denominator,49531
+Percent of Students who Complete a POG/POL,Denominator,SWD,"27,807",2,SY 2023-24,denominator,Denominator,27807
+Percent of Students who Complete a POG/POL,Denominator,504 Plan,NA,2,SY 2023-24,denominator,Denominator,NA
+Percent of Students who Complete a POG/POL,Denominator,Asian,"9,532",2,SY 2023-24,denominator,Denominator,9532
+Percent of Students who Complete a POG/POL,Denominator,Black,"33,506",2,SY 2023-24,denominator,Denominator,33506
+Percent of Students who Complete a POG/POL,Denominator,Hispanic,"17,248",2,SY 2023-24,denominator,Denominator,17248
+Percent of Students who Complete a POG/POL,Denominator,Multiracial,"50,600",2,SY 2023-24,denominator,Denominator,50600
+Percent of Students who Complete a POG/POL,Denominator,White,"11,267",2,SY 2023-24,denominator,Denominator,11267
+Percent of Students who Complete a POG/POL,SY 2024-25,All Students,10%,2,SY 2024-25,percent,SY 2024-25,10
+Percent of Students who Complete a POG/POL,SY 2024-25,Econ Dis,7%,2,SY 2024-25,percent,SY 2024-25,7
+Percent of Students who Complete a POG/POL,SY 2024-25,ML,8%,2,SY 2024-25,percent,SY 2024-25,8
+Percent of Students who Complete a POG/POL,SY 2024-25,SWD,8%,2,SY 2024-25,percent,SY 2024-25,8
+Percent of Students who Complete a POG/POL,SY 2024-25,504 Plan,NA,2,SY 2024-25,percent,SY 2024-25,NA
+Percent of Students who Complete a POG/POL,SY 2024-25,Asian,10%,2,SY 2024-25,percent,SY 2024-25,10
+Percent of Students who Complete a POG/POL,SY 2024-25,Black,12%,2,SY 2024-25,percent,SY 2024-25,12
+Percent of Students who Complete a POG/POL,SY 2024-25,Hispanic,9%,2,SY 2024-25,percent,SY 2024-25,9
+Percent of Students who Complete a POG/POL,SY 2024-25,Multiracial,7%,2,SY 2024-25,percent,SY 2024-25,7
+Percent of Students who Complete a POG/POL,SY 2024-25,White,12%,2,SY 2024-25,percent,SY 2024-25,12
+Percent of Students who Complete a POG/POL,Numerator,All Students,"17,537",2,SY 2024-25,numerator,Numerator,17537
+Percent of Students who Complete a POG/POL,Numerator,Econ Dis,"4,226",2,SY 2024-25,numerator,Numerator,4226
+Percent of Students who Complete a POG/POL,Numerator,ML,"4,052",2,SY 2024-25,numerator,Numerator,4052
+Percent of Students who Complete a POG/POL,Numerator,SWD,"2,391",2,SY 2024-25,numerator,Numerator,2391
+Percent of Students who Complete a POG/POL,Numerator,504 Plan,NA,2,SY 2024-25,numerator,Numerator,NA
+Percent of Students who Complete a POG/POL,Numerator,Asian,"1,061",2,SY 2024-25,numerator,Numerator,1061
+Percent of Students who Complete a POG/POL,Numerator,Black,"4,112",2,SY 2024-25,numerator,Numerator,4112
+Percent of Students who Complete a POG/POL,Numerator,Hispanic,"1,468",2,SY 2024-25,numerator,Numerator,1468
+Percent of Students who Complete a POG/POL,Numerator,Multiracial,"3,532",2,SY 2024-25,numerator,Numerator,3532
+Percent of Students who Complete a POG/POL,Numerator,White,"1,349",2,SY 2024-25,numerator,Numerator,1349
+Percent of Students who Complete a POG/POL,Denominator,All Students,"175,616",2,SY 2024-25,denominator,Denominator,175616
+Percent of Students who Complete a POG/POL,Denominator,Econ Dis,"57,477",2,SY 2024-25,denominator,Denominator,57477
+Percent of Students who Complete a POG/POL,Denominator,ML,"48,765",2,SY 2024-25,denominator,Denominator,48765
+Percent of Students who Complete a POG/POL,Denominator,SWD,"28,294",2,SY 2024-25,denominator,Denominator,28294
+Percent of Students who Complete a POG/POL,Denominator,504 Plan,NA,2,SY 2024-25,denominator,Denominator,NA
+Percent of Students who Complete a POG/POL,Denominator,Asian,"10,341",2,SY 2024-25,denominator,Denominator,10341
+Percent of Students who Complete a POG/POL,Denominator,Black,"33,104",2,SY 2024-25,denominator,Denominator,33104
+Percent of Students who Complete a POG/POL,Denominator,Hispanic,"17,079",2,SY 2024-25,denominator,Denominator,17079
+Percent of Students who Complete a POG/POL,Denominator,Multiracial,"50,318",2,SY 2024-25,denominator,Denominator,50318
+Percent of Students who Complete a POG/POL,Denominator,White,"11,464",2,SY 2024-25,denominator,Denominator,11464
+Percent of Students who Complete a POG/POL,Target,All Students,29%,2,SY 2024-25,other,Target,29
+Percent of Students who Complete a POG/POL,Target,Econ Dis,28%,2,SY 2024-25,other,Target,28
+Percent of Students who Complete a POG/POL,Target,ML,28%,2,SY 2024-25,other,Target,28
+Percent of Students who Complete a POG/POL,Target,SWD,28%,2,SY 2024-25,other,Target,28
+Percent of Students who Complete a POG/POL,Target,504 Plan,NA,2,SY 2024-25,other,Target,NA
+Percent of Students who Complete a POG/POL,Target,Asian,29%,2,SY 2024-25,other,Target,29
+Percent of Students who Complete a POG/POL,Target,Black,29%,2,SY 2024-25,other,Target,29
+Percent of Students who Complete a POG/POL,Target,Hispanic,28%,2,SY 2024-25,other,Target,28
+Percent of Students who Complete a POG/POL,Target,Multiracial,28%,2,SY 2024-25,other,Target,28
+Percent of Students who Complete a POG/POL,Target,White,29%,2,SY 2024-25,other,Target,29
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,All students,3%,3,Baseline,percent,Baseline,3
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,Econ Dis,2%,3,Baseline,percent,Baseline,2
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,ML,2%,3,Baseline,percent,Baseline,2
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,SWD,2%,3,Baseline,percent,Baseline,2
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,504 Plan,3%,3,Baseline,percent,Baseline,3
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,Asian,3%,3,Baseline,percent,Baseline,3
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,Black,2%,3,Baseline,percent,Baseline,2
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,Hispanic,2%,3,Baseline,percent,Baseline,2
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,Multiracial,3%,3,Baseline,percent,Baseline,3
+Growth Targets - Percent of Students who Complete a POG/POL,Baseline,White,3%,3,Baseline,percent,Baseline,3
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,All Students,Actual,3,SY 2023-24,percent,SY 2023-24,NA
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,All students,6%,3,SY 2023-24,percent,SY 2023-24,6
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,Econ Dis,4%,3,SY 2023-24,percent,SY 2023-24,4
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,ML,5%,3,SY 2023-24,percent,SY 2023-24,5
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,SWD,5%,3,SY 2023-24,percent,SY 2023-24,5
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,504 Plan,7%,3,SY 2023-24,percent,SY 2023-24,7
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,Asian,7%,3,SY 2023-24,percent,SY 2023-24,7
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,Black,4%,3,SY 2023-24,percent,SY 2023-24,4
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,Hispanic,4%,3,SY 2023-24,percent,SY 2023-24,4
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,Multiracial,7%,3,SY 2023-24,percent,SY 2023-24,7
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2023-24,White,7%,3,SY 2023-24,percent,SY 2023-24,7
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,All Students,Target,3,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,All students,29%,3,SY 2024-25,percent,SY 2024-25,29
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Econ Dis,28%,3,SY 2024-25,percent,SY 2024-25,28
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,ML,28%,3,SY 2024-25,percent,SY 2024-25,28
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,SWD,28%,3,SY 2024-25,percent,SY 2024-25,28
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,504 Plan,29%,3,SY 2024-25,percent,SY 2024-25,29
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Asian,29%,3,SY 2024-25,percent,SY 2024-25,29
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Black,28%,3,SY 2024-25,percent,SY 2024-25,28
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Hispanic,28%,3,SY 2024-25,percent,SY 2024-25,28
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Multiracial,29%,3,SY 2024-25,percent,SY 2024-25,29
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,White,29%,3,SY 2024-25,percent,SY 2024-25,29
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,All Students,Actual,3,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,All students,10%,3,SY 2024-25,percent,SY 2024-25,10
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Econ Dis,7%,3,SY 2024-25,percent,SY 2024-25,7
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,ML,8%,3,SY 2024-25,percent,SY 2024-25,8
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,SWD,8%,3,SY 2024-25,percent,SY 2024-25,8
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,504 Plan,10%,3,SY 2024-25,percent,SY 2024-25,10
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Asian,12%,3,SY 2024-25,percent,SY 2024-25,12
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Black,9%,3,SY 2024-25,percent,SY 2024-25,9
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Hispanic,7%,3,SY 2024-25,percent,SY 2024-25,7
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,Multiracial,12%,3,SY 2024-25,percent,SY 2024-25,12
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2024-25,White,11%,3,SY 2024-25,percent,SY 2024-25,11
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,All Students,Target,3,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,All students,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,Econ Dis,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,ML,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,SWD,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,504 Plan,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,Asian,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,Black,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,Hispanic,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,Multiracial,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,SY 2025-26,White,42%,3,SY 2025-26,percent,SY 2025-26,42
+Growth Targets - Percent of Students who Complete a POG/POL,Target,All students,Annual,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,Econ Dis,NA,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,ML,NA,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,SWD,NA,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,504 Plan,NA,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,Asian,NA,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,Black,NA,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,Hispanic,NA,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,Multiracial,NA,3,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students who Complete a POG/POL,Target,White,NA,3,SY 2025-26,other,Target,NA
+VDOE On-time Graduation Rates,Baseline,All Students,94.06%,6,Baseline,percent,Baseline,94.06
+VDOE On-time Graduation Rates,Baseline,Econ Dis,91.42%,6,Baseline,percent,Baseline,91.42
+VDOE On-time Graduation Rates,Baseline,ML (1-6d),72.83%,6,Baseline,percent,Baseline,72.83
+VDOE On-time Graduation Rates,Baseline,SWD,94.90%,6,Baseline,percent,Baseline,94.9
+VDOE On-time Graduation Rates,Baseline,504 Plan,98.69%,6,Baseline,percent,Baseline,98.69
+VDOE On-time Graduation Rates,Baseline,Asian,98.58%,6,Baseline,percent,Baseline,98.58
+VDOE On-time Graduation Rates,Baseline,Black,96.26%,6,Baseline,percent,Baseline,96.26
+VDOE On-time Graduation Rates,Baseline,Hispanic,82.37%,6,Baseline,percent,Baseline,82.36999999999999
+VDOE On-time Graduation Rates,Baseline,Multiracial,98.14%,6,Baseline,percent,Baseline,98.14
+VDOE On-time Graduation Rates,Baseline,White,98.65%,6,Baseline,percent,Baseline,98.64999999999999
+VDOE On-time Graduation Rates,Numerator,All Students,"13,904",6,Baseline,numerator,Numerator,13904
+VDOE On-time Graduation Rates,Numerator,Econ Dis,"3,937",6,Baseline,numerator,Numerator,3937
+VDOE On-time Graduation Rates,Numerator,ML (1-6d),"1,764",6,Baseline,numerator,Numerator,1764
+VDOE On-time Graduation Rates,Numerator,SWD,"1,816",6,Baseline,numerator,Numerator,1816
+VDOE On-time Graduation Rates,Numerator,504 Plan,"1,031",6,Baseline,numerator,Numerator,1031
+VDOE On-time Graduation Rates,Numerator,Asian,"3,048",6,Baseline,numerator,Numerator,3048
+VDOE On-time Graduation Rates,Numerator,Black,"1,450",6,Baseline,numerator,Numerator,1450
+VDOE On-time Graduation Rates,Numerator,Hispanic,"3,200",6,Baseline,numerator,Numerator,3200
+VDOE On-time Graduation Rates,Numerator,Multiracial,756,6,Baseline,numerator,Numerator,756
+VDOE On-time Graduation Rates,Numerator,White,"5,407",6,Baseline,numerator,Numerator,5407
+VDOE On-time Graduation Rates,Denominator,All Students,"14,782",6,Baseline,denominator,Denominator,14782
+VDOE On-time Graduation Rates,Denominator,Econ Dis,"4,306",6,Baseline,denominator,Denominator,4306
+VDOE On-time Graduation Rates,Denominator,ML (1-6d),"2,423",6,Baseline,denominator,Denominator,2423
+VDOE On-time Graduation Rates,Denominator,SWD,"1,914",6,Baseline,denominator,Denominator,1914
+VDOE On-time Graduation Rates,Denominator,504 Plan,"1,045",6,Baseline,denominator,Denominator,1045
+VDOE On-time Graduation Rates,Denominator,Asian,"3,092",6,Baseline,denominator,Denominator,3092
+VDOE On-time Graduation Rates,Denominator,Black,"1,507",6,Baseline,denominator,Denominator,1507
+VDOE On-time Graduation Rates,Denominator,Hispanic,"3,884",6,Baseline,denominator,Denominator,3884
+VDOE On-time Graduation Rates,Denominator,Multiracial,770,6,Baseline,denominator,Denominator,770
+VDOE On-time Graduation Rates,Denominator,White,"5,481",6,Baseline,denominator,Denominator,5481
+VDOE On-time Graduation Rates,SY 2023-24,All Students,94.58%,6,SY 2023-24,percent,SY 2023-24,94.58
+VDOE On-time Graduation Rates,SY 2023-24,Econ Dis,93.60%,6,SY 2023-24,percent,SY 2023-24,93.6
+VDOE On-time Graduation Rates,SY 2023-24,ML (1-6d),76.03%,6,SY 2023-24,percent,SY 2023-24,76.03
+VDOE On-time Graduation Rates,SY 2023-24,SWD,94.36%,6,SY 2023-24,percent,SY 2023-24,94.36
+VDOE On-time Graduation Rates,SY 2023-24,504 Plan,98.08%,6,SY 2023-24,percent,SY 2023-24,98.08
+VDOE On-time Graduation Rates,SY 2023-24,Asian,98.49%,6,SY 2023-24,percent,SY 2023-24,98.49000000000001
+VDOE On-time Graduation Rates,SY 2023-24,Black,95.16%,6,SY 2023-24,percent,SY 2023-24,95.16
+VDOE On-time Graduation Rates,SY 2023-24,Hispanic,85.84%,6,SY 2023-24,percent,SY 2023-24,85.84
+VDOE On-time Graduation Rates,SY 2023-24,Multiracial,97.58%,6,SY 2023-24,percent,SY 2023-24,97.58
+VDOE On-time Graduation Rates,SY 2023-24,White,98.37%,6,SY 2023-24,percent,SY 2023-24,98.36999999999999
+VDOE On-time Graduation Rates,Numerator,All Students,"14,068",6,SY 2023-24,numerator,Numerator,14068
+VDOE On-time Graduation Rates,Numerator,Econ Dis,"4,829",6,SY 2023-24,numerator,Numerator,4829
+VDOE On-time Graduation Rates,Numerator,ML (1-6d),"1,703",6,SY 2023-24,numerator,Numerator,1703
+VDOE On-time Graduation Rates,Numerator,SWD,"1,772",6,SY 2023-24,numerator,Numerator,1772
+VDOE On-time Graduation Rates,Numerator,504 Plan,"1,226",6,SY 2023-24,numerator,Numerator,1226
+VDOE On-time Graduation Rates,Numerator,Asian,"3,004",6,SY 2023-24,numerator,Numerator,3004
+VDOE On-time Graduation Rates,Numerator,Black,"1,475",6,SY 2023-24,numerator,Numerator,1475
+VDOE On-time Graduation Rates,Numerator,Hispanic,"3,486",6,SY 2023-24,numerator,Numerator,3486
+VDOE On-time Graduation Rates,Numerator,Multiracial,808,6,SY 2023-24,numerator,Numerator,808
+VDOE On-time Graduation Rates,Numerator,White,"5,236",6,SY 2023-24,numerator,Numerator,5236
+VDOE On-time Graduation Rates,Denominator,All Students,"14,874",6,SY 2023-24,denominator,Denominator,14874
+VDOE On-time Graduation Rates,Denominator,Econ Dis,"5,159",6,SY 2023-24,denominator,Denominator,5159
+VDOE On-time Graduation Rates,Denominator,ML (1-6d),"2,240",6,SY 2023-24,denominator,Denominator,2240
+VDOE On-time Graduation Rates,Denominator,SWD,"1,878",6,SY 2023-24,denominator,Denominator,1878
+VDOE On-time Graduation Rates,Denominator,504 Plan,"1,250",6,SY 2023-24,denominator,Denominator,1250
+VDOE On-time Graduation Rates,Denominator,Asian,"3,050",6,SY 2023-24,denominator,Denominator,3050
+VDOE On-time Graduation Rates,Denominator,Black,"1,550",6,SY 2023-24,denominator,Denominator,1550
+VDOE On-time Graduation Rates,Denominator,Hispanic,"4,061",6,SY 2023-24,denominator,Denominator,4061
+VDOE On-time Graduation Rates,Denominator,Multiracial,828,6,SY 2023-24,denominator,Denominator,828
+VDOE On-time Graduation Rates,Denominator,White,"5,323",6,SY 2023-24,denominator,Denominator,5323
+VDOE On-time Graduation Rates,SY 2024-25,All Students,93.30%,6,SY 2024-25,percent,SY 2024-25,93.3
+VDOE On-time Graduation Rates,SY 2024-25,Econ Dis,90.20%,6,SY 2024-25,percent,SY 2024-25,90.2
+VDOE On-time Graduation Rates,SY 2024-25,ML (1-6d),74.51%,6,SY 2024-25,percent,SY 2024-25,74.51
+VDOE On-time Graduation Rates,SY 2024-25,SWD,93.65%,6,SY 2024-25,percent,SY 2024-25,93.64999999999999
+VDOE On-time Graduation Rates,SY 2024-25,504 Plan,98.40%,6,SY 2024-25,percent,SY 2024-25,98.4
+VDOE On-time Graduation Rates,SY 2024-25,Asian,97.85%,6,SY 2024-25,percent,SY 2024-25,97.85
+VDOE On-time Graduation Rates,SY 2024-25,Black,95.68%,6,SY 2024-25,percent,SY 2024-25,95.67999999999999
+VDOE On-time Graduation Rates,SY 2024-25,Hispanic,83.47%,6,SY 2024-25,percent,SY 2024-25,83.47
+VDOE On-time Graduation Rates,SY 2024-25,Multiracial,97.54%,6,SY 2024-25,percent,SY 2024-25,97.54
+VDOE On-time Graduation Rates,SY 2024-25,White,98.21%,6,SY 2024-25,percent,SY 2024-25,98.21000000000001
+VDOE On-time Graduation Rates,Numerator,All Students,"14,425",6,SY 2024-25,numerator,Numerator,14425
+VDOE On-time Graduation Rates,Numerator,Econ Dis,"4,389",6,SY 2024-25,numerator,Numerator,4389
+VDOE On-time Graduation Rates,Numerator,ML (1-6d),"2,195",6,SY 2024-25,numerator,Numerator,2195
+VDOE On-time Graduation Rates,Numerator,SWD,"1,874",6,SY 2024-25,numerator,Numerator,1874
+VDOE On-time Graduation Rates,Numerator,504 Plan,"1,170",6,SY 2024-25,numerator,Numerator,1170
+VDOE On-time Graduation Rates,Numerator,Asian,"2,964",6,SY 2024-25,numerator,Numerator,2964
+VDOE On-time Graduation Rates,Numerator,Black,"1,550",6,SY 2024-25,numerator,Numerator,1550
+VDOE On-time Graduation Rates,Numerator,Hispanic,"3,969",6,SY 2024-25,numerator,Numerator,3969
+VDOE On-time Graduation Rates,Numerator,Multiracial,831,6,SY 2024-25,numerator,Numerator,831
+VDOE On-time Graduation Rates,Numerator,White,"5,051",6,SY 2024-25,numerator,Numerator,5051
+VDOE On-time Graduation Rates,Denominator,All Students,"15,461",6,SY 2024-25,denominator,Denominator,15461
+VDOE On-time Graduation Rates,Denominator,Econ Dis,"4,866",6,SY 2024-25,denominator,Denominator,4866
+VDOE On-time Graduation Rates,Denominator,ML (1-6d),"2,946",6,SY 2024-25,denominator,Denominator,2946
+VDOE On-time Graduation Rates,Denominator,SWD,"2,001",6,SY 2024-25,denominator,Denominator,2001
+VDOE On-time Graduation Rates,Denominator,504 Plan,"1,189",6,SY 2024-25,denominator,Denominator,1189
+VDOE On-time Graduation Rates,Denominator,Asian,"3,029",6,SY 2024-25,denominator,Denominator,3029
+VDOE On-time Graduation Rates,Denominator,Black,"1,620",6,SY 2024-25,denominator,Denominator,1620
+VDOE On-time Graduation Rates,Denominator,Hispanic,"4,755",6,SY 2024-25,denominator,Denominator,4755
+VDOE On-time Graduation Rates,Denominator,Multiracial,852,6,SY 2024-25,denominator,Denominator,852
+VDOE On-time Graduation Rates,Denominator,White,"5,143",6,SY 2024-25,denominator,Denominator,5143
+VDOE On-time Graduation Rates,Target,All Students,94.33%,6,SY 2024-25,other,Target,94.33
+VDOE On-time Graduation Rates,Target,Econ Dis,92.44%,6,SY 2024-25,other,Target,92.44000000000001
+VDOE On-time Graduation Rates,Target,ML (1-6d),79.16%,6,SY 2024-25,other,Target,79.16
+VDOE On-time Graduation Rates,Target,SWD,94.93%,6,SY 2024-25,other,Target,94.93
+VDOE On-time Graduation Rates,Target,504 Plan,Maintain,6,SY 2024-25,other,Target,NA
+VDOE On-time Graduation Rates,Target,Asian,Maintain,6,SY 2024-25,other,Target,NA
+VDOE On-time Graduation Rates,Target,Black,Maintain,6,SY 2024-25,other,Target,NA
+VDOE On-time Graduation Rates,Target,Hispanic,85.98%,6,SY 2024-25,other,Target,85.98
+VDOE On-time Graduation Rates,Target,Multiracial,Maintain,6,SY 2024-25,other,Target,NA
+VDOE On-time Graduation Rates,Target,White,Maintain,6,SY 2024-25,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Baseline,All students,94.06%,7,Baseline,percent,Baseline,94.06
+Growth Targets - VDOE On-time Graduation Rates,Baseline,Econ Dis,91.42%,7,Baseline,percent,Baseline,91.42
+Growth Targets - VDOE On-time Graduation Rates,Baseline,ML,72.83%,7,Baseline,percent,Baseline,72.83
+Growth Targets - VDOE On-time Graduation Rates,Baseline,SWD,94.90%,7,Baseline,percent,Baseline,94.9
+Growth Targets - VDOE On-time Graduation Rates,Baseline,504 Plan,98.69%,7,Baseline,percent,Baseline,98.69
+Growth Targets - VDOE On-time Graduation Rates,Baseline,Asian,98.58%,7,Baseline,percent,Baseline,98.58
+Growth Targets - VDOE On-time Graduation Rates,Baseline,Black,96.26%,7,Baseline,percent,Baseline,96.26
+Growth Targets - VDOE On-time Graduation Rates,Baseline,Hispanic,82.37%,7,Baseline,percent,Baseline,82.36999999999999
+Growth Targets - VDOE On-time Graduation Rates,Baseline,Multiracial,98.14%,7,Baseline,percent,Baseline,98.14
+Growth Targets - VDOE On-time Graduation Rates,Baseline,White,98.65%,7,Baseline,percent,Baseline,98.64999999999999
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,All Students,Actual,7,SY 2023-24,percent,SY 2023-24,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,All students,94.58%,7,SY 2023-24,percent,SY 2023-24,94.58
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,Econ Dis,93.60%,7,SY 2023-24,percent,SY 2023-24,93.6
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,ML,76.03%,7,SY 2023-24,percent,SY 2023-24,76.03
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,SWD,94.36%,7,SY 2023-24,percent,SY 2023-24,94.36
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,504 Plan,98.08%,7,SY 2023-24,percent,SY 2023-24,98.08
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,Asian,98.49%,7,SY 2023-24,percent,SY 2023-24,98.49000000000001
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,Black,95.16%,7,SY 2023-24,percent,SY 2023-24,95.16
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,Hispanic,85.84%,7,SY 2023-24,percent,SY 2023-24,85.84
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,Multiracial,97.58%,7,SY 2023-24,percent,SY 2023-24,97.58
+Growth Targets - VDOE On-time Graduation Rates,SY 2023-24,White,98.37%,7,SY 2023-24,percent,SY 2023-24,98.36999999999999
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,All Students,Target,7,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,All students,94.33%,7,SY 2024-25,percent,SY 2024-25,94.33
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Econ Dis,92.44%,7,SY 2024-25,percent,SY 2024-25,92.44000000000001
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,ML,79.16%,7,SY 2024-25,percent,SY 2024-25,79.16
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,SWD,94.93%,7,SY 2024-25,percent,SY 2024-25,94.93
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,504 Plan,Maintain,7,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Asian,Maintain,7,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Black,Maintain,7,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Hispanic,85.98%,7,SY 2024-25,percent,SY 2024-25,85.98
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Multiracial,Maintain,7,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,White,Maintain,7,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,All Students,Actual,7,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,All students,93.30%,7,SY 2024-25,percent,SY 2024-25,93.3
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Econ Dis,90.20%,7,SY 2024-25,percent,SY 2024-25,90.2
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,ML,74.51%,7,SY 2024-25,percent,SY 2024-25,74.51
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,SWD,93.65%,7,SY 2024-25,percent,SY 2024-25,93.64999999999999
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,504 Plan,98.40%,7,SY 2024-25,percent,SY 2024-25,98.4
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Asian,97.85%,7,SY 2024-25,percent,SY 2024-25,97.85
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Black,95.68%,7,SY 2024-25,percent,SY 2024-25,95.67999999999999
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Hispanic,83.47%,7,SY 2024-25,percent,SY 2024-25,83.47
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,Multiracial,97.54%,7,SY 2024-25,percent,SY 2024-25,97.54
+Growth Targets - VDOE On-time Graduation Rates,SY 2024-25,White,98.21%,7,SY 2024-25,percent,SY 2024-25,98.21000000000001
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,All Students,Target,7,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,All students,94.46%,7,SY 2025-26,percent,SY 2025-26,94.46000000000001
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,Econ Dis,92.95%,7,SY 2025-26,percent,SY 2025-26,92.95
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,ML,82.33%,7,SY 2025-26,percent,SY 2025-26,82.33
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,SWD,94.94%,7,SY 2025-26,percent,SY 2025-26,94.94000000000001
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,504 Plan,Maintain,7,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,Asian,Maintain,7,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,Black,Maintain,7,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,Hispanic,87.78%,7,SY 2025-26,percent,SY 2025-26,87.78
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,Multiracial,Maintain,7,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - VDOE On-time Graduation Rates,SY 2025-26,White,Maintain,7,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,All students,Annual,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,Econ Dis,NA,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,ML,NA,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,SWD,NA,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,504 Plan,NA,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,Asian,NA,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,Black,NA,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,Hispanic,NA,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,Multiracial,NA,7,SY 2025-26,other,Target,NA
+Growth Targets - VDOE On-time Graduation Rates,Target,White,NA,7,SY 2025-26,other,Target,NA
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,All Students,5.00%,8,Baseline,percent,Baseline,5
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Econ Dis,7.01%,8,Baseline,percent,Baseline,7.01
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,ML,24.99%,8,Baseline,percent,Baseline,24.99
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,SWD,4.08%,8,Baseline,percent,Baseline,4.08
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,504 Plan,0.51%,8,Baseline,percent,Baseline,0.51
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Asian,0.91%,8,Baseline,percent,Baseline,0.91
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Black,2.68%,8,Baseline,percent,Baseline,2.68
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Hispanic,15.82%,8,Baseline,percent,Baseline,15.82
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Multiracial,1.17%,8,Baseline,percent,Baseline,1.1700000000000002
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,White,0.78%,8,Baseline,percent,Baseline,0.7799999999999999
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,All Students,739,8,Baseline,numerator,Numerator,739
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Econ Dis,302,8,Baseline,numerator,Numerator,302
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,ML,605,8,Baseline,numerator,Numerator,605
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,SWD,78,8,Baseline,numerator,Numerator,78
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,504 Plan,5,8,Baseline,numerator,Numerator,5
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Asian,28,8,Baseline,numerator,Numerator,28
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Black,40,8,Baseline,numerator,Numerator,40
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Hispanic,614,8,Baseline,numerator,Numerator,614
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Multiracial,9,8,Baseline,numerator,Numerator,9
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,White,43,8,Baseline,numerator,Numerator,43
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,All Students,"14,782",8,Baseline,denominator,Denominator,14782
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Econ Dis,"4,306",8,Baseline,denominator,Denominator,4306
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,ML,"2,423",8,Baseline,denominator,Denominator,2423
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,SWD,"1,914",8,Baseline,denominator,Denominator,1914
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,504 Plan,"1,045",8,Baseline,denominator,Denominator,1045
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Asian,"3,092",8,Baseline,denominator,Denominator,3092
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Black,"1,507",8,Baseline,denominator,Denominator,1507
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Hispanic,"3,884",8,Baseline,denominator,Denominator,3884
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Multiracial,770,8,Baseline,denominator,Denominator,770
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,White,"5,481",8,Baseline,denominator,Denominator,5481
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,All Students,3.81%,8,SY 2023-24,percent,SY 2023-24,3.8099999999999996
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Econ Dis,4.46%,8,SY 2023-24,percent,SY 2023-24,4.46
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,ML,19.33%,8,SY 2023-24,percent,SY 2023-24,19.330000000000002
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,SWD,4.05%,8,SY 2023-24,percent,SY 2023-24,4.05
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,504 Plan,0.80%,8,SY 2023-24,percent,SY 2023-24,0.8
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Asian,0.72%,8,SY 2023-24,percent,SY 2023-24,0.72
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Black,2.77%,8,SY 2023-24,percent,SY 2023-24,2.77
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Hispanic,11.06%,8,SY 2023-24,percent,SY 2023-24,11.06
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Multiracial,1.57%,8,SY 2023-24,percent,SY 2023-24,1.57
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,White,0.71%,8,SY 2023-24,percent,SY 2023-24,0.71
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,All Students,567,8,SY 2023-24,numerator,Numerator,567
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Econ Dis,230,8,SY 2023-24,numerator,Numerator,230
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,ML,433,8,SY 2023-24,numerator,Numerator,433
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,SWD,76,8,SY 2023-24,numerator,Numerator,76
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,504 Plan,10,8,SY 2023-24,numerator,Numerator,10
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Asian,22,8,SY 2023-24,numerator,Numerator,22
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Black,43,8,SY 2023-24,numerator,Numerator,43
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Hispanic,449,8,SY 2023-24,numerator,Numerator,449
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Multiracial,13,8,SY 2023-24,numerator,Numerator,13
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,White,38,8,SY 2023-24,numerator,Numerator,38
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,All Students,"14,874",8,SY 2023-24,denominator,Denominator,14874
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Econ Dis,"5,159",8,SY 2023-24,denominator,Denominator,5159
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,ML,"2,240",8,SY 2023-24,denominator,Denominator,2240
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,SWD,"1,878",8,SY 2023-24,denominator,Denominator,1878
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,504 Plan,"1,250",8,SY 2023-24,denominator,Denominator,1250
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Asian,"3,050",8,SY 2023-24,denominator,Denominator,3050
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Black,"1,550",8,SY 2023-24,denominator,Denominator,1550
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Hispanic,"4,061",8,SY 2023-24,denominator,Denominator,4061
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Multiracial,828,8,SY 2023-24,denominator,Denominator,828
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,White,"5,323",8,SY 2023-24,denominator,Denominator,5323
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,All Students,5.16%,8,SY 2024-25,percent,SY 2024-25,5.159999999999999
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Econ Dis,6.80%,8,SY 2024-25,percent,SY 2024-25,6.8
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,ML,22.03%,8,SY 2024-25,percent,SY 2024-25,22.03
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,SWD,4.40%,8,SY 2024-25,percent,SY 2024-25,4.4
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,504 Plan,0.84%,8,SY 2024-25,percent,SY 2024-25,0.8400000000000001
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Asian,1.35%,8,SY 2024-25,percent,SY 2024-25,1.35
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Black,2.65%,8,SY 2024-25,percent,SY 2024-25,2.65
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Hispanic,13.59%,8,SY 2024-25,percent,SY 2024-25,13.59
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Multiracial,1.29%,8,SY 2024-25,percent,SY 2024-25,1.29
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,White,1.05%,8,SY 2024-25,percent,SY 2024-25,1.05
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,All Students,797,8,SY 2024-25,numerator,Numerator,797
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Econ Dis,331,8,SY 2024-25,numerator,Numerator,331
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,ML,649,8,SY 2024-25,numerator,Numerator,649
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,SWD,88,8,SY 2024-25,numerator,Numerator,88
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,504 Plan,10,8,SY 2024-25,numerator,Numerator,10
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Asian,41,8,SY 2024-25,numerator,Numerator,41
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Black,43,8,SY 2024-25,numerator,Numerator,43
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Hispanic,646,8,SY 2024-25,numerator,Numerator,646
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,Multiracial,11,8,SY 2024-25,numerator,Numerator,11
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Numerator,White,54,8,SY 2024-25,numerator,Numerator,54
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,All Students,"15,446",8,SY 2024-25,denominator,Denominator,15446
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Econ Dis,"4,866",8,SY 2024-25,denominator,Denominator,4866
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,ML,"2,946",8,SY 2024-25,denominator,Denominator,2946
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,SWD,"2,001",8,SY 2024-25,denominator,Denominator,2001
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,504 Plan,"1,189",8,SY 2024-25,denominator,Denominator,1189
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Asian,"3,029",8,SY 2024-25,denominator,Denominator,3029
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Black,"1,620",8,SY 2024-25,denominator,Denominator,1620
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Hispanic,"4,755",8,SY 2024-25,denominator,Denominator,4755
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,Multiracial,852,8,SY 2024-25,denominator,Denominator,852
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Denominator,White,"5,143",8,SY 2024-25,denominator,Denominator,5143
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,All Students,≤,8,SY 2024-25,other,Target,NA
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Econ Dis,4.29%,8,SY 2024-25,other,Target,4.29
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,ML,≤,8,SY 2024-25,other,Target,NA
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,SWD,5.72%,8,SY 2024-25,other,Target,5.72
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,504 Plan,≤,8,SY 2024-25,other,Target,NA
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Asian,18.57%,8,SY 2024-25,other,Target,18.57
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Black,≤,8,SY 2024-25,other,Target,NA
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Hispanic,≤ 12.01%,8,SY 2024-25,other,Target,12.01
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Multiracial,Maintain,8,SY 2024-25,other,Target,NA
+Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,White,Maintain,8,SY 2024-25,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,All students,5.00%,9,Baseline,percent,Baseline,5
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Econ Dis,7.01%,9,Baseline,percent,Baseline,7.01
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,ML,24.99%,9,Baseline,percent,Baseline,24.99
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,SWD,4.08%,9,Baseline,percent,Baseline,4.08
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,504 Plan,0.51%,9,Baseline,percent,Baseline,0.51
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Asian,0.91%,9,Baseline,percent,Baseline,0.91
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Black,2.68%,9,Baseline,percent,Baseline,2.68
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Hispanic,15.82%,9,Baseline,percent,Baseline,15.82
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,Multiracial,1.17%,9,Baseline,percent,Baseline,1.1700000000000002
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Baseline,White,0.78%,9,Baseline,percent,Baseline,0.7799999999999999
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,All Students,Actual,9,SY 2023-24,percent,SY 2023-24,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,All students,3.81%,9,SY 2023-24,percent,SY 2023-24,3.8099999999999996
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Econ Dis,4.46%,9,SY 2023-24,percent,SY 2023-24,4.46
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,ML,19.33%,9,SY 2023-24,percent,SY 2023-24,19.330000000000002
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,SWD,4.05%,9,SY 2023-24,percent,SY 2023-24,4.05
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,504 Plan,0.8%,9,SY 2023-24,percent,SY 2023-24,0.8
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Asian,0.72%,9,SY 2023-24,percent,SY 2023-24,0.72
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Black,2.77%,9,SY 2023-24,percent,SY 2023-24,2.77
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Hispanic,11.06%,9,SY 2023-24,percent,SY 2023-24,11.06
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,Multiracial,1.57%,9,SY 2023-24,percent,SY 2023-24,1.57
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2023-24,White,0.71%,9,SY 2023-24,percent,SY 2023-24,0.71
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,All students,Target,9,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Econ Dis,≤,9,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,ML,4.29%,9,SY 2024-25,percent,SY 2024-25,4.29
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,SWD,≤,9,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,504 Plan,5.72%,9,SY 2024-25,percent,SY 2024-25,5.72
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Asian,≤,9,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Black,18.57%,9,SY 2024-25,percent,SY 2024-25,18.57
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Hispanic,≤,9,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Multiracial,2.91%,9,SY 2024-25,percent,SY 2024-25,2.9099999999999997
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,White,Maintain,9,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,All Students,Actual,9,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,All students,5.17%,9,SY 2024-25,percent,SY 2024-25,5.17
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Econ Dis,6.80%,9,SY 2024-25,percent,SY 2024-25,6.8
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,ML,22.03%,9,SY 2024-25,percent,SY 2024-25,22.03
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,SWD,4.40%,9,SY 2024-25,percent,SY 2024-25,4.4
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,504 Plan,0.84%,9,SY 2024-25,percent,SY 2024-25,0.8400000000000001
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Asian,1.35%,9,SY 2024-25,percent,SY 2024-25,1.35
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Black,2.65%,9,SY 2024-25,percent,SY 2024-25,2.65
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Hispanic,13.59%,9,SY 2024-25,percent,SY 2024-25,13.59
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,Multiracial,1.29%,9,SY 2024-25,percent,SY 2024-25,1.29
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2024-25,White,1.05%,9,SY 2024-25,percent,SY 2024-25,1.05
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,All students,Target,9,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,Econ Dis,≤,9,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,ML,3.93,9,SY 2025-26,percent,SY 2025-26,3.9299999999999997
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,SWD,≤,9,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,504 Plan,5.08,9,SY 2025-26,percent,SY 2025-26,5.08
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,Asian,≤,9,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,Black,15.36,9,SY 2025-26,percent,SY 2025-26,15.360000000000001
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,Hispanic,≤,9,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,Multiracial,2.33,9,SY 2025-26,percent,SY 2025-26,2.3299999999999996
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),SY 2025-26,White,Maintain,9,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,All students,Annual,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Econ Dis,NA,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,ML,NA,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,SWD,NA,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,504 Plan,NA,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Asian,NA,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Black,NA,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Hispanic,NA,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,Multiracial,NA,9,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students in Graduating Cohort who Dropped Out (VDOE Dropout Rates),Target,White,NA,9,SY 2025-26,other,Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,All Students,95%,11,Baseline,percent,Baseline,95
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Econ Dis,90%,11,Baseline,percent,Baseline,90
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,ML,84%,11,Baseline,percent,Baseline,84
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,SWD,93%,11,Baseline,percent,Baseline,93
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,504 Plan,97%,11,Baseline,percent,Baseline,97
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Asian,99%,11,Baseline,percent,Baseline,99
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Black,96%,11,Baseline,percent,Baseline,96
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Hispanic,88%,11,Baseline,percent,Baseline,88
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Multiracial,98%,11,Baseline,percent,Baseline,98
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,White,98%,11,Baseline,percent,Baseline,98
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,All Students,"14,537",11,Baseline,numerator,Numerator,14537
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Econ Dis,"4,728",11,Baseline,numerator,Numerator,4728
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,ML,"2,768",11,Baseline,numerator,Numerator,2768
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,SWD,"1,940",11,Baseline,numerator,Numerator,1940
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,504 Plan,790,11,Baseline,numerator,Numerator,790
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Asian,"3,000",11,Baseline,numerator,Numerator,3000
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Black,"1,490",11,Baseline,numerator,Numerator,1490
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Hispanic,"3,985",11,Baseline,numerator,Numerator,3985
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Multiracial,845,11,Baseline,numerator,Numerator,845
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,White,"5,157",11,Baseline,numerator,Numerator,5157
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,All Students,"15,326",11,Baseline,denominator,Denominator,15326
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Econ Dis,"5,262",11,Baseline,denominator,Denominator,5262
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,ML,"3,283",11,Baseline,denominator,Denominator,3283
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,SWD,"2,082",11,Baseline,denominator,Denominator,2082
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,504 Plan,811,11,Baseline,denominator,Denominator,811
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Asian,"3,043",11,Baseline,denominator,Denominator,3043
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Black,"1,555",11,Baseline,denominator,Denominator,1555
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Hispanic,"4,552",11,Baseline,denominator,Denominator,4552
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Multiracial,864,11,Baseline,denominator,Denominator,864
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,White,"5,251",11,Baseline,denominator,Denominator,5251
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,All Students,94%,11,SY 2023-24,percent,SY 2023-24,94
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Econ Dis,88%,11,SY 2023-24,percent,SY 2023-24,88
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,ML,84%,11,SY 2023-24,percent,SY 2023-24,84
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,SWD,91%,11,SY 2023-24,percent,SY 2023-24,91
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,504 Plan,97%,11,SY 2023-24,percent,SY 2023-24,97
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Asian,98%,11,SY 2023-24,percent,SY 2023-24,98
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Black,94%,11,SY 2023-24,percent,SY 2023-24,94
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Hispanic,86%,11,SY 2023-24,percent,SY 2023-24,86
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Multiracial,98%,11,SY 2023-24,percent,SY 2023-24,98
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,White,98%,11,SY 2023-24,percent,SY 2023-24,98
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,All Students,"14,172",11,SY 2023-24,numerator,Numerator,14172
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Econ Dis,"5,264",11,SY 2023-24,numerator,Numerator,5264
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,ML,"3,074",11,SY 2023-24,numerator,Numerator,3074
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,SWD,"1,929",11,SY 2023-24,numerator,Numerator,1929
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,504 Plan,882,11,SY 2023-24,numerator,Numerator,882
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Asian,"2,985",11,SY 2023-24,numerator,Numerator,2985
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Black,"1,401",11,SY 2023-24,numerator,Numerator,1401
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Hispanic,"3,911",11,SY 2023-24,numerator,Numerator,3911
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Multiracial,846,11,SY 2023-24,numerator,Numerator,846
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,White,"4,961",11,SY 2023-24,numerator,Numerator,4961
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,All Students,"15,075",11,SY 2023-24,denominator,Denominator,15075
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Econ Dis,"5,971",11,SY 2023-24,denominator,Denominator,5971
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,ML,"3,673",11,SY 2023-24,denominator,Denominator,3673
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,SWD,"2,114",11,SY 2023-24,denominator,Denominator,2114
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,504 Plan,908,11,SY 2023-24,denominator,Denominator,908
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Asian,"3,038",11,SY 2023-24,denominator,Denominator,3038
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Black,"1,489",11,SY 2023-24,denominator,Denominator,1489
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Hispanic,"4,574",11,SY 2023-24,denominator,Denominator,4574
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Multiracial,863,11,SY 2023-24,denominator,Denominator,863
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,White,"5,040",11,SY 2023-24,denominator,Denominator,5040
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,All Students,95%,11,SY 2024-25,percent,SY 2024-25,95
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Econ Dis,91%,11,SY 2024-25,percent,SY 2024-25,91
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,ML,88%,11,SY 2024-25,percent,SY 2024-25,88
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,SWD,91%,11,SY 2024-25,percent,SY 2024-25,91
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,504 Plan,98%,11,SY 2024-25,percent,SY 2024-25,98
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Asian,98%,11,SY 2024-25,percent,SY 2024-25,98
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Black,95%,11,SY 2024-25,percent,SY 2024-25,95
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Hispanic,90%,11,SY 2024-25,percent,SY 2024-25,90
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Multiracial,97%,11,SY 2024-25,percent,SY 2024-25,97
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,White,98%,11,SY 2024-25,percent,SY 2024-25,98
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,All Students,"13,726",11,SY 2024-25,numerator,Numerator,13726
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Econ Dis,"4,435",11,SY 2024-25,numerator,Numerator,4435
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,ML,"2,921",11,SY 2024-25,numerator,Numerator,2921
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,SWD,"1,883",11,SY 2024-25,numerator,Numerator,1883
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,504 Plan,976,11,SY 2024-25,numerator,Numerator,976
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Asian,"2,819",11,SY 2024-25,numerator,Numerator,2819
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Black,"1,403",11,SY 2024-25,numerator,Numerator,1403
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Hispanic,"3,723",11,SY 2024-25,numerator,Numerator,3723
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,Multiracial,896,11,SY 2024-25,numerator,Numerator,896
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Numerator,White,"4,838",11,SY 2024-25,numerator,Numerator,4838
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,All Students,"14,385",11,SY 2024-25,denominator,Denominator,14385
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Econ Dis,"4,884",11,SY 2024-25,denominator,Denominator,4884
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,ML,"3,309",11,SY 2024-25,denominator,Denominator,3309
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,SWD,"2,078",11,SY 2024-25,denominator,Denominator,2078
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,504 Plan,998,11,SY 2024-25,denominator,Denominator,998
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Asian,"2,869",11,SY 2024-25,denominator,Denominator,2869
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Black,"1,483",11,SY 2024-25,denominator,Denominator,1483
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Hispanic,"4,125",11,SY 2024-25,denominator,Denominator,4125
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,Multiracial,927,11,SY 2024-25,denominator,Denominator,927
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Denominator,White,"4,933",11,SY 2024-25,denominator,Denominator,4933
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,All Students,Maintain,11,SY 2024-25,other,Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Econ Dis,91%,11,SY 2024-25,other,Target,91
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,ML,85%,11,SY 2024-25,other,Target,85
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,SWD,94%,11,SY 2024-25,other,Target,94
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,504 Plan,Maintain,11,SY 2024-25,other,Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Asian,Maintain,11,SY 2024-25,other,Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Black,Maintain,11,SY 2024-25,other,Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Hispanic,90%,11,SY 2024-25,other,Target,90
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Multiracial,Maintain,11,SY 2024-25,other,Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,White,Maintain,11,SY 2024-25,other,Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,All Students,Met,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,Econ Dis,Target,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,ML,Met,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,SWD,Target,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,504 Plan,Met,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,Asian,Approaching,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,Black,Target Met,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,Hispanic,Target Met,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,Multiracial,Target Met,11,NA,target_status,Performance Target,NA
+Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Performance Target,White,Target Met,11,NA,target_status,Performance Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,All students,95%,12,Baseline,percent,Baseline,95
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Econ Dis,90%,12,Baseline,percent,Baseline,90
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,ML,81%,12,Baseline,percent,Baseline,81
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,SWD,93%,12,Baseline,percent,Baseline,93
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,504 Plan,97%,12,Baseline,percent,Baseline,97
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Asian,99%,12,Baseline,percent,Baseline,99
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Black,96%,12,Baseline,percent,Baseline,96
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Hispanic,88%,12,Baseline,percent,Baseline,88
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,Multiracial,98%,12,Baseline,percent,Baseline,98
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Baseline,White,98%,12,Baseline,percent,Baseline,98
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,All Students,Actual,12,SY 2023-24,percent,SY 2023-24,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,All students,94%,12,SY 2023-24,percent,SY 2023-24,94
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Econ Dis,88%,12,SY 2023-24,percent,SY 2023-24,88
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,ML,80%,12,SY 2023-24,percent,SY 2023-24,80
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,SWD,91%,12,SY 2023-24,percent,SY 2023-24,91
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,504 Plan,97%,12,SY 2023-24,percent,SY 2023-24,97
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Asian,98%,12,SY 2023-24,percent,SY 2023-24,98
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Black,94%,12,SY 2023-24,percent,SY 2023-24,94
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Hispanic,86%,12,SY 2023-24,percent,SY 2023-24,86
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,Multiracial,98%,12,SY 2023-24,percent,SY 2023-24,98
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2023-24,White,98%,12,SY 2023-24,percent,SY 2023-24,98
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,All Students,Target,12,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,All students,Maintain,12,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Econ Dis,91%,12,SY 2024-25,percent,SY 2024-25,91
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,ML,85%,12,SY 2024-25,percent,SY 2024-25,85
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,SWD,94%,12,SY 2024-25,percent,SY 2024-25,94
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,504 Plan,Maintain,12,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Asian,Maintain,12,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Black,Maintain,12,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Hispanic,90%,12,SY 2024-25,percent,SY 2024-25,90
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Multiracial,Maintain,12,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,White,Maintain,12,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,All Students,Actual,12,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,All students,95%,12,SY 2024-25,percent,SY 2024-25,95
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Econ Dis,91%,12,SY 2024-25,percent,SY 2024-25,91
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,ML,88%,12,SY 2024-25,percent,SY 2024-25,88
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,SWD,91%,12,SY 2024-25,percent,SY 2024-25,91
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,504 Plan,98%,12,SY 2024-25,percent,SY 2024-25,98
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Asian,98%,12,SY 2024-25,percent,SY 2024-25,98
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Black,95%,12,SY 2024-25,percent,SY 2024-25,95
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Hispanic,90%,12,SY 2024-25,percent,SY 2024-25,90
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,Multiracial,97%,12,SY 2024-25,percent,SY 2024-25,97
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2024-25,White,98%,12,SY 2024-25,percent,SY 2024-25,98
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,All Students,Target,12,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,All students,Maintain,12,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,Econ Dis,92%,12,SY 2025-26,percent,SY 2025-26,92
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,ML,87%,12,SY 2025-26,percent,SY 2025-26,87
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,SWD,94%,12,SY 2025-26,percent,SY 2025-26,94
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,504 Plan,Maintain,12,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,Asian,Maintain,12,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,Black,Maintain,12,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,Hispanic,91%,12,SY 2025-26,percent,SY 2025-26,91
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,Multiracial,Maintain,12,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,SY 2025-26,White,Maintain,12,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,All students,Annual,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Econ Dis,NA,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,ML,NA,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,SWD,NA,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,504 Plan,NA,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Asian,NA,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Black,NA,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Hispanic,NA,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,Multiracial,NA,12,SY 2025-26,other,Target,NA
+Growth Targets - Percent of 9th Grade Students who Earned 5 or More Credits in 9th Grade,Target,White,NA,12,SY 2025-26,other,Target,NA
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,All Students,76%,13,Baseline,percent,Baseline,76
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Econ Dis,62%,13,Baseline,percent,Baseline,62
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,ML,44%,13,Baseline,percent,Baseline,44
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,SWD,59%,13,Baseline,percent,Baseline,59
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,504 Plan,89%,13,Baseline,percent,Baseline,89
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Asian,82%,13,Baseline,percent,Baseline,82
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Black,75%,13,Baseline,percent,Baseline,75
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Hispanic,57%,13,Baseline,percent,Baseline,57
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Multiracial,86%,13,Baseline,percent,Baseline,86
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,White,87%,13,Baseline,percent,Baseline,87
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,All Students,"11,825",13,Baseline,numerator,Numerator,11825
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Econ Dis,"3,291",13,Baseline,numerator,Numerator,3291
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,ML,"1,573",13,Baseline,numerator,Numerator,1573
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,SWD,"1,276",13,Baseline,numerator,Numerator,1276
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,504 Plan,768,13,Baseline,numerator,Numerator,768
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Asian,"2,500",13,Baseline,numerator,Numerator,2500
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Black,"1,175",13,Baseline,numerator,Numerator,1175
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Hispanic,"2,731",13,Baseline,numerator,Numerator,2731
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Multiracial,771,13,Baseline,numerator,Numerator,771
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,White,"4,600",13,Baseline,numerator,Numerator,4600
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,All Students,"15,467",13,Baseline,denominator,Denominator,15467
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Econ Dis,"5,303",13,Baseline,denominator,Denominator,5303
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,ML,"3,564",13,Baseline,denominator,Denominator,3564
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,SWD,"2,132",13,Baseline,denominator,Denominator,2132
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,504 Plan,859,13,Baseline,denominator,Denominator,859
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Asian,"3,040",13,Baseline,denominator,Denominator,3040
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Black,"1,554",13,Baseline,denominator,Denominator,1554
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Hispanic,"4,700",13,Baseline,denominator,Denominator,4700
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Multiracial,890,13,Baseline,denominator,Denominator,890
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,White,"5,224",13,Baseline,denominator,Denominator,5224
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,All Students,78%,13,SY 2023-24,percent,SY 2023-24,78
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Econ Dis,64%,13,SY 2023-24,percent,SY 2023-24,64
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,ML,48%,13,SY 2023-24,percent,SY 2023-24,48
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,SWD,61%,13,SY 2023-24,percent,SY 2023-24,61
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,504 Plan,90%,13,SY 2023-24,percent,SY 2023-24,90
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Asian,82%,13,SY 2023-24,percent,SY 2023-24,82
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Black,76%,13,SY 2023-24,percent,SY 2023-24,76
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Hispanic,61%,13,SY 2023-24,percent,SY 2023-24,61
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Multiracial,87%,13,SY 2023-24,percent,SY 2023-24,87
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,White,90%,13,SY 2023-24,percent,SY 2023-24,90
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,All Students,"11,672",13,SY 2023-24,numerator,Numerator,11672
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Econ Dis,"3,778",13,SY 2023-24,numerator,Numerator,3778
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,ML,"1,725",13,SY 2023-24,numerator,Numerator,1725
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,SWD,"1,305",13,SY 2023-24,numerator,Numerator,1305
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,504 Plan,814,13,SY 2023-24,numerator,Numerator,814
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Asian,"2,492",13,SY 2023-24,numerator,Numerator,2492
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Black,"1,136",13,SY 2023-24,numerator,Numerator,1136
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Hispanic,"2,710",13,SY 2023-24,numerator,Numerator,2710
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Multiracial,744,13,SY 2023-24,numerator,Numerator,744
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,White,"4,530",13,SY 2023-24,numerator,Numerator,4530
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,All Students,"14,947",13,SY 2023-24,denominator,Denominator,14947
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Econ Dis,"5,883",13,SY 2023-24,denominator,Denominator,5883
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,ML,"3,567",13,SY 2023-24,denominator,Denominator,3567
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,SWD,"2,132",13,SY 2023-24,denominator,Denominator,2132
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,504 Plan,903,13,SY 2023-24,denominator,Denominator,903
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Asian,"3,037",13,SY 2023-24,denominator,Denominator,3037
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Black,"1,485",13,SY 2023-24,denominator,Denominator,1485
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Hispanic,"4,458",13,SY 2023-24,denominator,Denominator,4458
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Multiracial,860,13,SY 2023-24,denominator,Denominator,860
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,White,"5,037",13,SY 2023-24,denominator,Denominator,5037
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,All Students,78%,13,SY 2024-25,percent,SY 2024-25,78
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Econ Dis,63%,13,SY 2024-25,percent,SY 2024-25,63
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,ML,49%,13,SY 2024-25,percent,SY 2024-25,49
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,SWD,60%,13,SY 2024-25,percent,SY 2024-25,60
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,504 Plan,90%,13,SY 2024-25,percent,SY 2024-25,90
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Asian,80%,13,SY 2024-25,percent,SY 2024-25,80
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Black,77%,13,SY 2024-25,percent,SY 2024-25,77
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Hispanic,62%,13,SY 2024-25,percent,SY 2024-25,62
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Multiracial,87%,13,SY 2024-25,percent,SY 2024-25,87
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,White,89%,13,SY 2024-25,percent,SY 2024-25,89
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,All Students,"11,195",13,SY 2024-25,numerator,Numerator,11195
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Econ Dis,"3,099",13,SY 2024-25,numerator,Numerator,3099
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,ML,"1,627",13,SY 2024-25,numerator,Numerator,1627
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,SWD,"1,246",13,SY 2024-25,numerator,Numerator,1246
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,504 Plan,896,13,SY 2024-25,numerator,Numerator,896
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Asian,"2,288",13,SY 2024-25,numerator,Numerator,2288
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Black,"1,139",13,SY 2024-25,numerator,Numerator,1139
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Hispanic,"2,553",13,SY 2024-25,numerator,Numerator,2553
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,Multiracial,803,13,SY 2024-25,numerator,Numerator,803
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Numerator,White,"4,377",13,SY 2024-25,numerator,Numerator,4377
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,All Students,"14,385",13,SY 2024-25,denominator,Denominator,14385
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Econ Dis,"4,884",13,SY 2024-25,denominator,Denominator,4884
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,ML,"3,309",13,SY 2024-25,denominator,Denominator,3309
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,SWD,"2,078",13,SY 2024-25,denominator,Denominator,2078
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,504 Plan,998,13,SY 2024-25,denominator,Denominator,998
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Asian,"2,869",13,SY 2024-25,denominator,Denominator,2869
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Black,"1,483",13,SY 2024-25,denominator,Denominator,1483
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Hispanic,"4,125",13,SY 2024-25,denominator,Denominator,4125
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,Multiracial,927,13,SY 2024-25,denominator,Denominator,927
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Denominator,White,"4,933",13,SY 2024-25,denominator,Denominator,4933
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,All Students,81%,13,SY 2024-25,other,Target,81
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Econ Dis,71%,13,SY 2024-25,other,Target,71
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,ML,69%,13,SY 2024-25,other,Target,69
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,SWD,69%,13,SY 2024-25,other,Target,69
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,504 Plan,91%,13,SY 2024-25,other,Target,91
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Asian,86%,13,SY 2024-25,other,Target,86
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Black,81%,13,SY 2024-25,other,Target,81
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Hispanic,68%,13,SY 2024-25,other,Target,68
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Multiracial,89%,13,SY 2024-25,other,Target,89
+Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,White,89%,13,SY 2024-25,other,Target,89
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,All students,76%,14,Baseline,percent,Baseline,76
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Econ Dis,62%,14,Baseline,percent,Baseline,62
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,ML,44%,14,Baseline,percent,Baseline,44
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,SWD,59%,14,Baseline,percent,Baseline,59
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,504 Plan,89%,14,Baseline,percent,Baseline,89
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Asian,82%,14,Baseline,percent,Baseline,82
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Black,75%,14,Baseline,percent,Baseline,75
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Hispanic,57%,14,Baseline,percent,Baseline,57
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,Multiracial,86%,14,Baseline,percent,Baseline,86
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Baseline,White,87%,14,Baseline,percent,Baseline,87
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,All Students,Actual,14,SY 2023-24,percent,SY 2023-24,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,All students,78%,14,SY 2023-24,percent,SY 2023-24,78
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Econ Dis,64%,14,SY 2023-24,percent,SY 2023-24,64
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,ML,48%,14,SY 2023-24,percent,SY 2023-24,48
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,SWD,61%,14,SY 2023-24,percent,SY 2023-24,61
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,504 Plan,90%,14,SY 2023-24,percent,SY 2023-24,90
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Asian,82%,14,SY 2023-24,percent,SY 2023-24,82
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Black,76%,14,SY 2023-24,percent,SY 2023-24,76
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Hispanic,61%,14,SY 2023-24,percent,SY 2023-24,61
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,Multiracial,87%,14,SY 2023-24,percent,SY 2023-24,87
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2023-24,White,90%,14,SY 2023-24,percent,SY 2023-24,90
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,All Students,Target,14,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,All students,81%,14,SY 2024-25,percent,SY 2024-25,81
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Econ Dis,71%,14,SY 2024-25,percent,SY 2024-25,71
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,ML,51%,14,SY 2024-25,percent,SY 2024-25,51
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,SWD,69%,14,SY 2024-25,percent,SY 2024-25,69
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,504 Plan,91%,14,SY 2024-25,percent,SY 2024-25,91
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Asian,86%,14,SY 2024-25,percent,SY 2024-25,86
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Black,81%,14,SY 2024-25,percent,SY 2024-25,81
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Hispanic,68%,14,SY 2024-25,percent,SY 2024-25,68
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Multiracial,89%,14,SY 2024-25,percent,SY 2024-25,89
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,White,89%,14,SY 2024-25,percent,SY 2024-25,89
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,All Students,Actual,14,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,All students,78%,14,SY 2024-25,percent,SY 2024-25,78
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Econ Dis,63%,14,SY 2024-25,percent,SY 2024-25,63
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,ML,49%,14,SY 2024-25,percent,SY 2024-25,49
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,SWD,60%,14,SY 2024-25,percent,SY 2024-25,60
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,504 Plan,90%,14,SY 2024-25,percent,SY 2024-25,90
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Asian,80%,14,SY 2024-25,percent,SY 2024-25,80
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Black,77%,14,SY 2024-25,percent,SY 2024-25,77
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Hispanic,62%,14,SY 2024-25,percent,SY 2024-25,62
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,Multiracial,87%,14,SY 2024-25,percent,SY 2024-25,87
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2024-25,White,89%,14,SY 2024-25,percent,SY 2024-25,89
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,All Students,Target,14,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,All students,84%,14,SY 2025-26,percent,SY 2025-26,84
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,Econ Dis,76%,14,SY 2025-26,percent,SY 2025-26,76
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,ML,59%,14,SY 2025-26,percent,SY 2025-26,59
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,SWD,74%,14,SY 2025-26,percent,SY 2025-26,74
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,504 Plan,92%,14,SY 2025-26,percent,SY 2025-26,92
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,Asian,88%,14,SY 2025-26,percent,SY 2025-26,88
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,Black,84%,14,SY 2025-26,percent,SY 2025-26,84
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,Hispanic,73%,14,SY 2025-26,percent,SY 2025-26,73
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,Multiracial,90%,14,SY 2025-26,percent,SY 2025-26,90
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,SY 2025-26,White,90%,14,SY 2025-26,percent,SY 2025-26,90
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,All students,Annual,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Econ Dis,NA,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,ML,NA,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,SWD,NA,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,504 Plan,NA,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Asian,NA,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Black,NA,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Hispanic,NA,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,Multiracial,NA,14,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Students Completing 9th Grade With 2 or More Verified Credits,Target,White,NA,14,SY 2025-26,other,Target,NA
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,All Students,68%,15,Baseline,percent,Baseline,68
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,Econ Dis,46%,15,Baseline,percent,Baseline,46
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,ML,23%,15,Baseline,percent,Baseline,23
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,SWD,22%,15,Baseline,percent,Baseline,22
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,504 Plan,72%,15,Baseline,percent,Baseline,72
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,Asian,83%,15,Baseline,percent,Baseline,83
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,Black,55%,15,Baseline,percent,Baseline,55
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,Hispanic,46%,15,Baseline,percent,Baseline,46
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,Multiracial,73%,15,Baseline,percent,Baseline,73
+Percent of Graduates who Earned an Advanced Studies Diploma,Baseline,White,75%,15,Baseline,percent,Baseline,75
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,All Students,"9,449",15,Baseline,numerator,Numerator,9449
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Econ Dis,"1,813",15,Baseline,numerator,Numerator,1813
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,ML,401,15,Baseline,numerator,Numerator,401
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,SWD,398,15,Baseline,numerator,Numerator,398
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,504 Plan,744,15,Baseline,numerator,Numerator,744
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Asian,"2,537",15,Baseline,numerator,Numerator,2537
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Black,797,15,Baseline,numerator,Numerator,797
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Hispanic,"1,484",15,Baseline,numerator,Numerator,1484
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Multiracial,554,15,Baseline,numerator,Numerator,554
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,White,"4,049",15,Baseline,numerator,Numerator,4049
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,All Students,"13,904",15,Baseline,denominator,Denominator,13904
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Econ Dis,"3,937",15,Baseline,denominator,Denominator,3937
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,ML,"1,764",15,Baseline,denominator,Denominator,1764
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,SWD,"1,816",15,Baseline,denominator,Denominator,1816
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,504 Plan,"1,031",15,Baseline,denominator,Denominator,1031
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Asian,"3,048",15,Baseline,denominator,Denominator,3048
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Black,"1,450",15,Baseline,denominator,Denominator,1450
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Hispanic,"3,200",15,Baseline,denominator,Denominator,3200
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Multiracial,756,15,Baseline,denominator,Denominator,756
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,White,"5,407",15,Baseline,denominator,Denominator,5407
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,All Students,66%,15,SY 2023-24,percent,SY 2023-24,66
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,Econ Dis,46%,15,SY 2023-24,percent,SY 2023-24,46
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,ML,23%,15,SY 2023-24,percent,SY 2023-24,23
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,SWD,22%,15,SY 2023-24,percent,SY 2023-24,22
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,504 Plan,69%,15,SY 2023-24,percent,SY 2023-24,69
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,Asian,82%,15,SY 2023-24,percent,SY 2023-24,82
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,Black,52%,15,SY 2023-24,percent,SY 2023-24,52
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,Hispanic,45%,15,SY 2023-24,percent,SY 2023-24,45
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,Multiracial,72%,15,SY 2023-24,percent,SY 2023-24,72
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2023-24,White,73%,15,SY 2023-24,percent,SY 2023-24,73
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,All Students,"9,219",15,SY 2023-24,numerator,Numerator,9219
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Econ Dis,"2,213",15,SY 2023-24,numerator,Numerator,2213
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,ML,400,15,SY 2023-24,numerator,Numerator,400
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,SWD,396,15,SY 2023-24,numerator,Numerator,396
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,504 Plan,846,15,SY 2023-24,numerator,Numerator,846
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Asian,"2,452",15,SY 2023-24,numerator,Numerator,2452
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Black,764,15,SY 2023-24,numerator,Numerator,764
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Hispanic,"1,569",15,SY 2023-24,numerator,Numerator,1569
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Multiracial,579,15,SY 2023-24,numerator,Numerator,579
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,White,"3,823",15,SY 2023-24,numerator,Numerator,3823
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,All Students,"14,068",15,SY 2023-24,denominator,Denominator,14068
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Econ Dis,"4,829",15,SY 2023-24,denominator,Denominator,4829
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,ML,"1,703",15,SY 2023-24,denominator,Denominator,1703
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,SWD,"1,772",15,SY 2023-24,denominator,Denominator,1772
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,504 Plan,"1,226",15,SY 2023-24,denominator,Denominator,1226
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Asian,"3,004",15,SY 2023-24,denominator,Denominator,3004
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Black,"1,475",15,SY 2023-24,denominator,Denominator,1475
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Hispanic,"3,486",15,SY 2023-24,denominator,Denominator,3486
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Multiracial,808,15,SY 2023-24,denominator,Denominator,808
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,White,"5,236",15,SY 2023-24,denominator,Denominator,5236
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,All Students,63%,15,SY 2024-25,percent,SY 2024-25,63
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,Econ Dis,41%,15,SY 2024-25,percent,SY 2024-25,41
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,ML,20%,15,SY 2024-25,percent,SY 2024-25,20
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,SWD,22%,15,SY 2024-25,percent,SY 2024-25,22
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,504 Plan,71%,15,SY 2024-25,percent,SY 2024-25,71
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,Asian,81%,15,SY 2024-25,percent,SY 2024-25,81
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,Black,52%,15,SY 2024-25,percent,SY 2024-25,52
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,Hispanic,42%,15,SY 2024-25,percent,SY 2024-25,42
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,Multiracial,72%,15,SY 2024-25,percent,SY 2024-25,72
+Percent of Graduates who Earned an Advanced Studies Diploma,SY 2024-25,White,72%,15,SY 2024-25,percent,SY 2024-25,72
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,All Students,"9,142",15,SY 2024-25,numerator,Numerator,9142
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Econ Dis,"1,812",15,SY 2024-25,numerator,Numerator,1812
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,ML,448,15,SY 2024-25,numerator,Numerator,448
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,SWD,410,15,SY 2024-25,numerator,Numerator,410
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,504 Plan,826,15,SY 2024-25,numerator,Numerator,826
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Asian,"2,390",15,SY 2024-25,numerator,Numerator,2390
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Black,807,15,SY 2024-25,numerator,Numerator,807
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Hispanic,"1,664",15,SY 2024-25,numerator,Numerator,1664
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,Multiracial,595,15,SY 2024-25,numerator,Numerator,595
+Percent of Graduates who Earned an Advanced Studies Diploma,Numerator,White,"3,652",15,SY 2024-25,numerator,Numerator,3652
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,All Students,"14,414",15,SY 2024-25,denominator,Denominator,14414
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Econ Dis,"4,389",15,SY 2024-25,denominator,Denominator,4389
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,ML,"2,195",15,SY 2024-25,denominator,Denominator,2195
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,SWD,"1,874",15,SY 2024-25,denominator,Denominator,1874
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,504 Plan,"1,170",15,SY 2024-25,denominator,Denominator,1170
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Asian,"2,964",15,SY 2024-25,denominator,Denominator,2964
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Black,"1,550",15,SY 2024-25,denominator,Denominator,1550
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Hispanic,"3,969",15,SY 2024-25,denominator,Denominator,3969
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,Multiracial,831,15,SY 2024-25,denominator,Denominator,831
+Percent of Graduates who Earned an Advanced Studies Diploma,Denominator,White,"5,051",15,SY 2024-25,denominator,Denominator,5051
+Percent of Graduates who Earned an Applied Studies Diploma,Baseline,All Econ Dis ML (1-6d) SWD SWD SWD,1.5%,16,Baseline,percent,Baseline,1.5
+Percent of Graduates who Earned an Applied Studies Diploma,Baseline,All Students,11.5%,16,Baseline,percent,Baseline,11.5
+Percent of Graduates who Earned an Applied Studies Diploma,Numerator,All Econ Dis ML (1-6d) SWD SWD SWD,208,16,Baseline,numerator,Numerator,208
+Percent of Graduates who Earned an Applied Studies Diploma,Numerator,All Students,208,16,Baseline,numerator,Numerator,208
+Percent of Graduates who Earned an Applied Studies Diploma,Denominator,All Econ Dis ML (1-6d) SWD SWD SWD,"13,904",16,Baseline,denominator,Denominator,13904
+Percent of Graduates who Earned an Applied Studies Diploma,Denominator,All Students,"1,816",16,Baseline,denominator,Denominator,1816
+Percent of Graduates who Earned an Applied Studies Diploma,SY 2023-24,All Econ Dis ML (1-6d) SWD SWD SWD,1.7%,16,SY 2023-24,percent,SY 2023-24,1.7
+Percent of Graduates who Earned an Applied Studies Diploma,SY 2023-24,All Students,13.3%,16,SY 2023-24,percent,SY 2023-24,13.3
+Percent of Graduates who Earned an Applied Studies Diploma,Numerator,All Econ Dis ML (1-6d) SWD SWD SWD,235,16,SY 2023-24,numerator,Numerator,235
+Percent of Graduates who Earned an Applied Studies Diploma,Numerator,All Students,235,16,SY 2023-24,numerator,Numerator,235
+Percent of Graduates who Earned an Applied Studies Diploma,Denominator,All Econ Dis ML (1-6d) SWD SWD SWD,"14,068",16,SY 2023-24,denominator,Denominator,14068
+Percent of Graduates who Earned an Applied Studies Diploma,Denominator,All Students,"1,772",16,SY 2023-24,denominator,Denominator,1772
+Percent of Graduates who Earned an Applied Studies Diploma,SY 2024-25,All Econ Dis ML (1-6d) SWD SWD SWD,1.4%,16,SY 2024-25,percent,SY 2024-25,1.4
+Percent of Graduates who Earned an Applied Studies Diploma,SY 2024-25,All Students,10.8%,16,SY 2024-25,percent,SY 2024-25,10.8
+Percent of Graduates who Earned an Applied Studies Diploma,Numerator,All Econ Dis ML (1-6d) SWD SWD SWD,203,16,SY 2024-25,numerator,Numerator,203
+Percent of Graduates who Earned an Applied Studies Diploma,Numerator,All Students,203,16,SY 2024-25,numerator,Numerator,203
+Percent of Graduates who Earned an Applied Studies Diploma,Denominator,All Econ Dis ML (1-6d) SWD SWD SWD,"14,414",16,SY 2024-25,denominator,Denominator,14414
+Percent of Graduates who Earned an Applied Studies Diploma,Denominator,All Students,"1,874",16,SY 2024-25,denominator,Denominator,1874
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,All Students,79%,17,Baseline,percent,Baseline,79
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,Econ Dis,64%,17,Baseline,percent,Baseline,64
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,ML,34%,17,Baseline,percent,Baseline,34
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,SWD,55%,17,Baseline,percent,Baseline,55
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,504 Plan,85%,17,Baseline,percent,Baseline,85
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,Asian,89%,17,Baseline,percent,Baseline,89
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,Black,77%,17,Baseline,percent,Baseline,77
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,Hispanic,59%,17,Baseline,percent,Baseline,59
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,Multiracial,80%,17,Baseline,percent,Baseline,80
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Baseline,White,85%,17,Baseline,percent,Baseline,85
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,All Students,"10,965",17,Baseline,numerator,Numerator,10965
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Econ Dis,"2,547",17,Baseline,numerator,Numerator,2547
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,ML,393,17,Baseline,numerator,Numerator,393
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,SWD,"1,012",17,Baseline,numerator,Numerator,1012
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,504 Plan,875,17,Baseline,numerator,Numerator,875
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Asian,"2,708",17,Baseline,numerator,Numerator,2708
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Black,"1,118",17,Baseline,numerator,Numerator,1118
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Hispanic,"1,913",17,Baseline,numerator,Numerator,1913
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Multiracial,608,17,Baseline,numerator,Numerator,608
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,White,"4,586",17,Baseline,numerator,Numerator,4586
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,All Students,"13,960",17,Baseline,denominator,Denominator,13960
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Econ Dis,"3,953",17,Baseline,denominator,Denominator,3953
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,ML,"1,150",17,Baseline,denominator,Denominator,1150
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,SWD,"1,826",17,Baseline,denominator,Denominator,1826
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,504 Plan,"1,035",17,Baseline,denominator,Denominator,1035
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Asian,"3,050",17,Baseline,denominator,Denominator,3050
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Black,"1,457",17,Baseline,denominator,Denominator,1457
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Hispanic,"3,240",17,Baseline,denominator,Denominator,3240
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Multiracial,756,17,Baseline,denominator,Denominator,756
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,White,"5,414",17,Baseline,denominator,Denominator,5414
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,All Students,75%,17,SY 2023-24,percent,SY 2023-24,75
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,Econ Dis,61%,17,SY 2023-24,percent,SY 2023-24,61
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,ML,29%,17,SY 2023-24,percent,SY 2023-24,29
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,SWD,52%,17,SY 2023-24,percent,SY 2023-24,52
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,504 Plan,78%,17,SY 2023-24,percent,SY 2023-24,78
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,Asian,88%,17,SY 2023-24,percent,SY 2023-24,88
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,Black,72%,17,SY 2023-24,percent,SY 2023-24,72
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,Hispanic,54%,17,SY 2023-24,percent,SY 2023-24,54
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,Multiracial,78%,17,SY 2023-24,percent,SY 2023-24,78
+Percent of Students who Enroll in College Within Four Months of High School Graduation,SY 2023-24,White,81%,17,SY 2023-24,percent,SY 2023-24,81
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,All Students,"10,203",17,SY 2023-24,numerator,Numerator,10203
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Econ Dis,"2,820",17,SY 2023-24,numerator,Numerator,2820
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,ML,348,17,SY 2023-24,numerator,Numerator,348
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,SWD,840,17,SY 2023-24,numerator,Numerator,840
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,504 Plan,944,17,SY 2023-24,numerator,Numerator,944
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Asian,"2,575",17,SY 2023-24,numerator,Numerator,2575
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Black,"1,029",17,SY 2023-24,numerator,Numerator,1029
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Hispanic,"1,816",17,SY 2023-24,numerator,Numerator,1816
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Multiracial,617,17,SY 2023-24,numerator,Numerator,617
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,White,"4,129",17,SY 2023-24,numerator,Numerator,4129
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,All Students,"13,695",17,SY 2023-24,denominator,Denominator,13695
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Econ Dis,"4,589",17,SY 2023-24,denominator,Denominator,4589
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,ML,"1,218",17,SY 2023-24,denominator,Denominator,1218
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,SWD,"1,620",17,SY 2023-24,denominator,Denominator,1620
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,504 Plan,"1,203",17,SY 2023-24,denominator,Denominator,1203
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Asian,"2,939",17,SY 2023-24,denominator,Denominator,2939
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Black,"1,428",17,SY 2023-24,denominator,Denominator,1428
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Hispanic,"3,384",17,SY 2023-24,denominator,Denominator,3384
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,Multiracial,793,17,SY 2023-24,denominator,Denominator,793
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Denominator,White,"5,094",17,SY 2023-24,denominator,Denominator,5094
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,All Students,81%,17,SY 2023-24,other,Target,81
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,Econ Dis,68%,17,SY 2023-24,other,Target,68
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,ML,43%,17,SY 2023-24,other,Target,43
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,SWD,61%,17,SY 2023-24,other,Target,61
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,504 Plan,86%,17,SY 2023-24,other,Target,86
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,Asian,90%,17,SY 2023-24,other,Target,90
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,Black,80%,17,SY 2023-24,other,Target,80
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,Hispanic,64%,17,SY 2023-24,other,Target,64
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,Multiracial,82%,17,SY 2023-24,other,Target,82
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Target,White,86%,17,SY 2023-24,other,Target,86
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,All Students,SY,17,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Econ Dis,2024-25,17,SY 2023-24,numerator,Numerator,2024
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,ML,data,17,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,SWD,is,17,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,504 Plan,not,17,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Asian,yet,17,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Black,available.,17,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Hispanic,NA,17,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,Multiracial,NA,17,SY 2023-24,numerator,Numerator,NA
+Percent of Students who Enroll in College Within Four Months of High School Graduation,Numerator,White,NA,17,SY 2023-24,numerator,Numerator,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,All Students,98%,18,Baseline,percent,Baseline,98
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Econ Dis,97%,18,Baseline,percent,Baseline,97
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,ML,96%,18,Baseline,percent,Baseline,96
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,SWD,96%,18,Baseline,percent,Baseline,96
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,504 Plan,99%,18,Baseline,percent,Baseline,99
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Asian,99%,18,Baseline,percent,Baseline,99
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Black,98%,18,Baseline,percent,Baseline,98
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Hispanic,97%,18,Baseline,percent,Baseline,97
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Multiracial,99%,18,Baseline,percent,Baseline,99
+Percent of Seniors who Report Having College and Career Plans After High School,Baseline,White,99%,18,Baseline,percent,Baseline,99
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,All Students,"13,099",18,Baseline,numerator,Numerator,13099
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Econ Dis,"3,536",18,Baseline,numerator,Numerator,3536
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,ML,"1,497",18,Baseline,numerator,Numerator,1497
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,SWD,"1,508",18,Baseline,numerator,Numerator,1508
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,504 Plan,989,18,Baseline,numerator,Numerator,989
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Asian,"2,928",18,Baseline,numerator,Numerator,2928
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Black,"1,337",18,Baseline,numerator,Numerator,1337
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Hispanic,"2,900",18,Baseline,numerator,Numerator,2900
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Multiracial,720,18,Baseline,numerator,Numerator,720
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,White,"5,173",18,Baseline,numerator,Numerator,5173
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,All Students,"13,307",18,Baseline,denominator,Denominator,13307
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Econ Dis,"3,643",18,Baseline,denominator,Denominator,3643
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,ML,"1,564",18,Baseline,denominator,Denominator,1564
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,SWD,"1,568",18,Baseline,denominator,Denominator,1568
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,504 Plan,"1,001",18,Baseline,denominator,Denominator,1001
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Asian,"2,954",18,Baseline,denominator,Denominator,2954
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Black,"1,360",18,Baseline,denominator,Denominator,1360
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Hispanic,"2,991",18,Baseline,denominator,Denominator,2991
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Multiracial,728,18,Baseline,denominator,Denominator,728
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,White,"5,232",18,Baseline,denominator,Denominator,5232
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,All Students,99%,18,SY 2023-24,percent,SY 2023-24,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Econ Dis,99%,18,SY 2023-24,percent,SY 2023-24,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,ML,98%,18,SY 2023-24,percent,SY 2023-24,98
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,SWD,97%,18,SY 2023-24,percent,SY 2023-24,97
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,504 Plan,100%,18,SY 2023-24,percent,SY 2023-24,100
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Asian,100%,18,SY 2023-24,percent,SY 2023-24,100
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Black,99%,18,SY 2023-24,percent,SY 2023-24,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Hispanic,99%,18,SY 2023-24,percent,SY 2023-24,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Multiracial,99%,18,SY 2023-24,percent,SY 2023-24,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,White,99%,18,SY 2023-24,percent,SY 2023-24,99
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,All Students,"13,523",18,SY 2023-24,numerator,Numerator,13523
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Econ Dis,"4,512",18,SY 2023-24,numerator,Numerator,4512
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,ML,"1,558",18,SY 2023-24,numerator,Numerator,1558
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,SWD,"1,561",18,SY 2023-24,numerator,Numerator,1561
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,504 Plan,"1,197",18,SY 2023-24,numerator,Numerator,1197
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Asian,"2,922",18,SY 2023-24,numerator,Numerator,2922
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Black,"1,411",18,SY 2023-24,numerator,Numerator,1411
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Hispanic,"3,287",18,SY 2023-24,numerator,Numerator,3287
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Multiracial,787,18,SY 2023-24,numerator,Numerator,787
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,White,"5,063",18,SY 2023-24,numerator,Numerator,5063
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,All Students,"13,621",18,SY 2023-24,denominator,Denominator,13621
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Econ Dis,"4,566",18,SY 2023-24,denominator,Denominator,4566
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,ML,"1,594",18,SY 2023-24,denominator,Denominator,1594
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,SWD,"1,602",18,SY 2023-24,denominator,Denominator,1602
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,504 Plan,"1,202",18,SY 2023-24,denominator,Denominator,1202
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Asian,"2,935",18,SY 2023-24,denominator,Denominator,2935
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Black,"1,423",18,SY 2023-24,denominator,Denominator,1423
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Hispanic,"3,329",18,SY 2023-24,denominator,Denominator,3329
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Multiracial,792,18,SY 2023-24,denominator,Denominator,792
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,White,"5,089",18,SY 2023-24,denominator,Denominator,5089
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,All Students,99%,18,SY 2024-25,percent,SY 2024-25,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Econ Dis,99%,18,SY 2024-25,percent,SY 2024-25,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,ML,98%,18,SY 2024-25,percent,SY 2024-25,98
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,SWD,98%,18,SY 2024-25,percent,SY 2024-25,98
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,504 Plan,100%,18,SY 2024-25,percent,SY 2024-25,100
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Asian,100%,18,SY 2024-25,percent,SY 2024-25,100
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Black,99%,18,SY 2024-25,percent,SY 2024-25,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Hispanic,99%,18,SY 2024-25,percent,SY 2024-25,99
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Multiracial,100%,18,SY 2024-25,percent,SY 2024-25,100
+Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,White,100%,18,SY 2024-25,percent,SY 2024-25,100
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,All Students,"13,846",18,SY 2024-25,numerator,Numerator,13846
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Econ Dis,"4,093",18,SY 2024-25,numerator,Numerator,4093
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,ML,"1,959",18,SY 2024-25,numerator,Numerator,1959
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,SWD,"1,672",18,SY 2024-25,numerator,Numerator,1672
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,504 Plan,"1,245",18,SY 2024-25,numerator,Numerator,1245
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Asian,"2,893",18,SY 2024-25,numerator,Numerator,2893
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Black,"1,482",18,SY 2024-25,numerator,Numerator,1482
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Hispanic,"3,654",18,SY 2024-25,numerator,Numerator,3654
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,Multiracial,811,18,SY 2024-25,numerator,Numerator,811
+Percent of Seniors who Report Having College and Career Plans After High School,Numerator,White,"4,947",18,SY 2024-25,numerator,Numerator,4947
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,All Students,"13,917",18,SY 2024-25,denominator,Denominator,13917
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Econ Dis,"4,133",18,SY 2024-25,denominator,Denominator,4133
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,ML,"1,995",18,SY 2024-25,denominator,Denominator,1995
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,SWD,"1,704",18,SY 2024-25,denominator,Denominator,1704
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,504 Plan,"1,246",18,SY 2024-25,denominator,Denominator,1246
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Asian,"2,901",18,SY 2024-25,denominator,Denominator,2901
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Black,"1,493",18,SY 2024-25,denominator,Denominator,1493
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Hispanic,"3,697",18,SY 2024-25,denominator,Denominator,3697
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,Multiracial,813,18,SY 2024-25,denominator,Denominator,813
+Percent of Seniors who Report Having College and Career Plans After High School,Denominator,White,"4,954",18,SY 2024-25,denominator,Denominator,4954
+Percent of Seniors who Report Having College and Career Plans After High School,Target,All Students,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,Econ Dis,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,ML,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,SWD,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,504 Plan,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,Asian,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,Black,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,Hispanic,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,Multiracial,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Target,White,Maintain,18,SY 2024-25,other,Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,All Students,Met,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,Econ Dis,Target,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,ML,Met,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,SWD,Target,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,504 Plan,Met,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,Asian,Target,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,Black,Met,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,Hispanic,Target Met,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,Multiracial,Target Met,18,NA,target_status,Performance Target,NA
+Percent of Seniors who Report Having College and Career Plans After High School,Performance Target,White,Target Met,18,NA,target_status,Performance Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,All students,98%,19,Baseline,percent,Baseline,98
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Econ Dis,97%,19,Baseline,percent,Baseline,97
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,ML,96%,19,Baseline,percent,Baseline,96
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,SWD,96%,19,Baseline,percent,Baseline,96
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,504 Plan,99%,19,Baseline,percent,Baseline,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Asian,99%,19,Baseline,percent,Baseline,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Black,98%,19,Baseline,percent,Baseline,98
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Hispanic,97%,19,Baseline,percent,Baseline,97
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,Multiracial,99%,19,Baseline,percent,Baseline,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Baseline,White,99%,19,Baseline,percent,Baseline,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,All Students,Actual,19,SY 2023-24,percent,SY 2023-24,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,All students,99%,19,SY 2023-24,percent,SY 2023-24,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Econ Dis,99%,19,SY 2023-24,percent,SY 2023-24,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,ML,97%,19,SY 2023-24,percent,SY 2023-24,97
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,SWD,97%,19,SY 2023-24,percent,SY 2023-24,97
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,504 Plan,100%,19,SY 2023-24,percent,SY 2023-24,100
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Asian,100%,19,SY 2023-24,percent,SY 2023-24,100
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Black,99%,19,SY 2023-24,percent,SY 2023-24,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Hispanic,99%,19,SY 2023-24,percent,SY 2023-24,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,Multiracial,99%,19,SY 2023-24,percent,SY 2023-24,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2023-24,White,99%,19,SY 2023-24,percent,SY 2023-24,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,All Students,Target,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,All students,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Econ Dis,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,ML,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,SWD,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,504 Plan,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Asian,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Black,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Hispanic,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Multiracial,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,White,Maintain,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,All Students,Actual,19,SY 2024-25,percent,SY 2024-25,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,All students,99%,19,SY 2024-25,percent,SY 2024-25,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Econ Dis,99%,19,SY 2024-25,percent,SY 2024-25,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,ML,98%,19,SY 2024-25,percent,SY 2024-25,98
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,SWD,98%,19,SY 2024-25,percent,SY 2024-25,98
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,504 Plan,100%,19,SY 2024-25,percent,SY 2024-25,100
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Asian,100%,19,SY 2024-25,percent,SY 2024-25,100
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Black,99%,19,SY 2024-25,percent,SY 2024-25,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Hispanic,99%,19,SY 2024-25,percent,SY 2024-25,99
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,Multiracial,100%,19,SY 2024-25,percent,SY 2024-25,100
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2024-25,White,100%,19,SY 2024-25,percent,SY 2024-25,100
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,All Students,Target,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,All students,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,Econ Dis,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,ML,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,SWD,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,504 Plan,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,Asian,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,Black,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,Hispanic,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,Multiracial,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,SY 2025-26,White,Maintain,19,SY 2025-26,percent,SY 2025-26,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,All students,Annual,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,Econ Dis,NA,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,ML,NA,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,SWD,NA,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,504 Plan,NA,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,Asian,NA,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,Black,NA,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,Hispanic,NA,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,Multiracial,NA,19,SY 2025-26,other,Target,NA
+Growth Targets - Percent of Seniors who Report Having College and Career Plans After High School,Target,White,NA,19,SY 2025-26,other,Target,NA
