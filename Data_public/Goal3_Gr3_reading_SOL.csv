@@ -1,111 +1,111 @@
 raw,row_type,label,period,student_group,value,metric
 Baseline 69% 41% 34%,Baseline,Baseline,Baseline,All Students,69%,Pass Rate on the Grade 3 Reading SOL
 Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Econ Dis,41%,Pass Rate on the Grade 3 Reading SOL
-Baseline 69% 41% 34%,Baseline,Baseline,Baseline,ML (1-6d),34%,Pass Rate on the Grade 3 Reading SOL
-Baseline 69% 41% 34%,Baseline,Baseline,Baseline,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-Baseline 69% 41% 34%,Baseline,Baseline,Baseline,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Black,NA,Pass Rate on the Grade 3 Reading SOL
-Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-Baseline 69% 41% 34%,Baseline,Baseline,Baseline,White,NA,Pass Rate on the Grade 3 Reading SOL
+Baseline 69% 41% 34%,Baseline,Baseline,Baseline,ML (1-4),34%,Pass Rate on the Grade 3 Reading SOL
+Baseline 69% 41% 34%,Baseline,Baseline,Baseline,SWD,44%,Pass Rate on the Grade 3 Reading SOL
+Baseline 69% 41% 34%,Baseline,Baseline,Baseline,504 Plan,80%,Pass Rate on the Grade 3 Reading SOL
+Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Asian,81%,Pass Rate on the Grade 3 Reading SOL
+Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Black,61%,Pass Rate on the Grade 3 Reading SOL
+Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Hispanic,41%,Pass Rate on the Grade 3 Reading SOL
+Baseline 69% 41% 34%,Baseline,Baseline,Baseline,Multiracial,82%,Pass Rate on the Grade 3 Reading SOL
+Baseline 69% 41% 34%,Baseline,Baseline,Baseline,White,82%,Pass Rate on the Grade 3 Reading SOL
 "Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,All Students,"8,072",Pass Rate on the Grade 3 Reading SOL
 "Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Econ Dis,"1,632",Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,ML (1-6d),"1,169",Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Black,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,White,NA,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,ML (1-4),"1,169",Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,SWD,774,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,504 Plan,279,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Asian,"1,750",Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Black,674,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Hispanic,"1,306",Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,Multiracial,650,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,072 1,632 1,169",Numerator,Numerator,Baseline,White,"3,665",Pass Rate on the Grade 3 Reading SOL
 "Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,All Students,"11,765",Pass Rate on the Grade 3 Reading SOL
 "Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Econ Dis,"3,956",Pass Rate on the Grade 3 Reading SOL
-"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,ML (1-6d),"3,480",Pass Rate on the Grade 3 Reading SOL
-"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Black,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,White,NA,Pass Rate on the Grade 3 Reading SOL
+"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,ML (1-4),"3,480",Pass Rate on the Grade 3 Reading SOL
+"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,SWD,"1,752",Pass Rate on the Grade 3 Reading SOL
+"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,504 Plan,350,Pass Rate on the Grade 3 Reading SOL
+"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Asian,"2,164",Pass Rate on the Grade 3 Reading SOL
+"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Black,"1,106",Pass Rate on the Grade 3 Reading SOL
+"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Hispanic,"3,187",Pass Rate on the Grade 3 Reading SOL
+"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,Multiracial,791,Pass Rate on the Grade 3 Reading SOL
+"Denominator 11,765 3,956 3,480",Denominator,Denominator,Baseline,White,"4,471",Pass Rate on the Grade 3 Reading SOL
 SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,All Students,70%,Pass Rate on the Grade 3 Reading SOL
 SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Econ Dis,44%,Pass Rate on the Grade 3 Reading SOL
-SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,ML (1-6d),33%,Pass Rate on the Grade 3 Reading SOL
-SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Black,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,White,NA,Pass Rate on the Grade 3 Reading SOL
+SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,ML (1-4),33%,Pass Rate on the Grade 3 Reading SOL
+SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,SWD,46%,Pass Rate on the Grade 3 Reading SOL
+SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,504 Plan,82%,Pass Rate on the Grade 3 Reading SOL
+SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Asian,83%,Pass Rate on the Grade 3 Reading SOL
+SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Black,59%,Pass Rate on the Grade 3 Reading SOL
+SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Hispanic,43%,Pass Rate on the Grade 3 Reading SOL
+SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,Multiracial,85%,Pass Rate on the Grade 3 Reading SOL
+SY 2023-24 70% 44% 33%,SY,SY 2023-24,SY 2023-24,White,83%,Pass Rate on the Grade 3 Reading SOL
 "Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,All Students,"8,508",Pass Rate on the Grade 3 Reading SOL
 "Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Econ Dis,"1,742",Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,ML (1-6d),"1,039",Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Black,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,White,NA,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,ML (1-4),"1,039",Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,SWD,946,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,504 Plan,391,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Asian,"1,850",Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Black,653,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Hispanic,"1,469",Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,Multiracial,753,Pass Rate on the Grade 3 Reading SOL
+"Numerator 8,508 1,742 1,039",Numerator,Numerator,SY 2023-24,White,"3,764",Pass Rate on the Grade 3 Reading SOL
 "Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,All Students,"12,217",Pass Rate on the Grade 3 Reading SOL
 "Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Econ Dis,"3,970",Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,ML (1-6d),"3,140",Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Black,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,White,NA,Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,ML (1-4),"3,140",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,SWD,"2,060",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,504 Plan,479,Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Asian,"2,222",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Black,"1,106",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Hispanic,"3,429",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,Multiracial,881,Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,217 3,970 3,140",Denominator,Denominator,SY 2023-24,White,"4,531",Pass Rate on the Grade 3 Reading SOL
 SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,All Students,71%,Pass Rate on the Grade 3 Reading SOL
 SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Econ Dis,46%,Pass Rate on the Grade 3 Reading SOL
-SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,ML (1-6d),35%,Pass Rate on the Grade 3 Reading SOL
-SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Black,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,White,NA,Pass Rate on the Grade 3 Reading SOL
+SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,ML (1-4),35%,Pass Rate on the Grade 3 Reading SOL
+SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,SWD,48%,Pass Rate on the Grade 3 Reading SOL
+SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,504 Plan,85%,Pass Rate on the Grade 3 Reading SOL
+SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Asian,82%,Pass Rate on the Grade 3 Reading SOL
+SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Black,65%,Pass Rate on the Grade 3 Reading SOL
+SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Hispanic,46%,Pass Rate on the Grade 3 Reading SOL
+SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,Multiracial,85%,Pass Rate on the Grade 3 Reading SOL
+SY 2024-25 71% 46% 35%,SY,SY 2024-25,SY 2024-25,White,85%,Pass Rate on the Grade 3 Reading SOL
 "Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,All Students,"9,258",Pass Rate on the Grade 3 Reading SOL
 "Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Econ Dis,"1,874",Pass Rate on the Grade 3 Reading SOL
-"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,ML (1-6d),"1,217",Pass Rate on the Grade 3 Reading SOL
-"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Black,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,White,NA,Pass Rate on the Grade 3 Reading SOL
+"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,ML (1-4),"1,217",Pass Rate on the Grade 3 Reading SOL
+"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,SWD,"1,049",Pass Rate on the Grade 3 Reading SOL
+"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,504 Plan,543,Pass Rate on the Grade 3 Reading SOL
+"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Asian,"1,814",Pass Rate on the Grade 3 Reading SOL
+"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Black,771,Pass Rate on the Grade 3 Reading SOL
+"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Hispanic,"1,700",Pass Rate on the Grade 3 Reading SOL
+"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,Multiracial,774,Pass Rate on the Grade 3 Reading SOL
+"Numerator 9,258 1,874 1,217",Numerator,Numerator,SY 2024-25,White,"4,174",Pass Rate on the Grade 3 Reading SOL
 "Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,All Students,"12,995",Pass Rate on the Grade 3 Reading SOL
 "Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Econ Dis,"4,070",Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,ML (1-6d),"3,510",Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Black,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,White,NA,Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,ML (1-4),"3,510",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,SWD,"2,178",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,504 Plan,637,Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Asian,"2,224",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Black,"1,188",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Hispanic,"3,720",Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,Multiracial,910,Pass Rate on the Grade 3 Reading SOL
+"Denominator 12,995 4,070 3,510",Denominator,Denominator,SY 2024-25,White,"4,913",Pass Rate on the Grade 3 Reading SOL
 Target 76% 56% 51%,Target,Target,SY 2024-25,All Students,76%,Pass Rate on the Grade 3 Reading SOL
 Target 76% 56% 51%,Target,Target,SY 2024-25,Econ Dis,56%,Pass Rate on the Grade 3 Reading SOL
-Target 76% 56% 51%,Target,Target,SY 2024-25,ML (1-6d),51%,Pass Rate on the Grade 3 Reading SOL
-Target 76% 56% 51%,Target,Target,SY 2024-25,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-Target 76% 56% 51%,Target,Target,SY 2024-25,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-Target 76% 56% 51%,Target,Target,SY 2024-25,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-Target 76% 56% 51%,Target,Target,SY 2024-25,Black,NA,Pass Rate on the Grade 3 Reading SOL
-Target 76% 56% 51%,Target,Target,SY 2024-25,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-Target 76% 56% 51%,Target,Target,SY 2024-25,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-Target 76% 56% 51%,Target,Target,SY 2024-25,White,NA,Pass Rate on the Grade 3 Reading SOL
+Target 76% 56% 51%,Target,Target,SY 2024-25,ML (1-4),51%,Pass Rate on the Grade 3 Reading SOL
+Target 76% 56% 51%,Target,Target,SY 2024-25,SWD,59%,Pass Rate on the Grade 3 Reading SOL
+Target 76% 56% 51%,Target,Target,SY 2024-25,504 Plan,84%,Pass Rate on the Grade 3 Reading SOL
+Target 76% 56% 51%,Target,Target,SY 2024-25,Asian,85%,Pass Rate on the Grade 3 Reading SOL
+Target 76% 56% 51%,Target,Target,SY 2024-25,Black,71%,Pass Rate on the Grade 3 Reading SOL
+Target 76% 56% 51%,Target,Target,SY 2024-25,Hispanic,56%,Pass Rate on the Grade 3 Reading SOL
+Target 76% 56% 51%,Target,Target,SY 2024-25,Multiracial,86%,Pass Rate on the Grade 3 Reading SOL
+Target 76% 56% 51%,Target,Target,SY 2024-25,White,86%,Pass Rate on the Grade 3 Reading SOL
 Performance Progress Progress Progress,Performance,Performance,SY 2024-25,All Students,Progress,Pass Rate on the Grade 3 Reading SOL
 Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Econ Dis,Progress,Pass Rate on the Grade 3 Reading SOL
-Performance Progress Progress Progress,Performance,Performance,SY 2024-25,ML (1-6d),Progress,Pass Rate on the Grade 3 Reading SOL
-Performance Progress Progress Progress,Performance,Performance,SY 2024-25,SWD,NA,Pass Rate on the Grade 3 Reading SOL
-Performance Progress Progress Progress,Performance,Performance,SY 2024-25,504 Plan,NA,Pass Rate on the Grade 3 Reading SOL
-Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Asian,NA,Pass Rate on the Grade 3 Reading SOL
-Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Black,NA,Pass Rate on the Grade 3 Reading SOL
-Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Hispanic,NA,Pass Rate on the Grade 3 Reading SOL
-Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Multiracial,NA,Pass Rate on the Grade 3 Reading SOL
-Performance Progress Progress Progress,Performance,Performance,SY 2024-25,White,NA,Pass Rate on the Grade 3 Reading SOL
+Performance Progress Progress Progress,Performance,Performance,SY 2024-25,ML (1-4),Progress,Pass Rate on the Grade 3 Reading SOL
+Performance Progress Progress Progress,Performance,Performance,SY 2024-25,SWD,Progress,Pass Rate on the Grade 3 Reading SOL
+Performance Progress Progress Progress,Performance,Performance,SY 2024-25,504 Plan,Target Met,Pass Rate on the Grade 3 Reading SOL
+Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Asian,Progress,Pass Rate on the Grade 3 Reading SOL
+Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Black,Progress,Pass Rate on the Grade 3 Reading SOL
+Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Hispanic,Progress,Pass Rate on the Grade 3 Reading SOL
+Performance Progress Progress Progress,Performance,Performance,SY 2024-25,Multiracial,Progress,Pass Rate on the Grade 3 Reading SOL
+Performance Progress Progress Progress,Performance,Performance,SY 2024-25,White,Progress,Pass Rate on the Grade 3 Reading SOL

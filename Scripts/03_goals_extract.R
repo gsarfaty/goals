@@ -51,7 +51,7 @@ tables_list <- extract_tables(
 
 #pull specific table and tidy --------------------------------------------------
 
-df_table <- as.data.frame(tables_list[[30]]) #select from list
+df_table <- as.data.frame(tables_list[[26]]) #select from list
 
 df_edits <- df_table %>%
   rename(raw = 1) %>% 
@@ -85,11 +85,12 @@ df_edits <- df_table %>%
     row_type == "Performance" ~ "Performance",
     row_type == "SY"          ~ str_extract(raw, "^SY\\s\\d{4}-\\d{2}"),  # keep year only
     TRUE ~ row_type)) %>% 
-  filter(!row_type=="Student Group") %>%  #update based on specific table %>% 
+  filter(!row_type=="Student Group",
+         !raw %in% c("All","Econ Dis ML (1-6d) SWD 504 Plan Asian")) %>%  #update based on specific table %>% 
   select(raw,row_type,label,values,everything())
 
 df_final <- df_edits %>%
-  separate(values, into = paste0("grp_", 1:20), sep = "\\s+", fill = "right") %>% 
+  separate(values, into = paste0("grp_", 1:6), sep = "\\s+", fill = "right") %>% #WHEN PULLS CORRECTLY THEN 1:20
   # filter(!grp_1=="(1-4)") %>% 
   select(raw,row_type,label,everything()) %>% 
   select(1:13) %>% 
@@ -115,9 +116,9 @@ df_final <- df_edits %>%
   pivot_longer(cols='All Students':'White',
                names_to = "student_group",
                values_to = "value") %>% 
-  mutate(metric="Pass Rate on the Grade 3 Reading SOL")
+  mutate(metric="Percent of Students who Complete a POG/POL")
 
 
 
 # EXPORT -----------------------------------------------------------------------
-write_csv(df_final, file = "Data_public/Goal3_Gr3_reading_SOL.csv")
+write_csv(df_final, file = "Data_public/Goal3_CompletePOG.csv")
