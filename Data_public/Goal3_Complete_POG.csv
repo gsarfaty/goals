@@ -1,0 +1,111 @@
+raw,row_type,label,period,student_group,value,metric
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,All Students,3%,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,Econ Dis,2%,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,ML (1-4),2%,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,SWD,2%,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,504 Plan,3%,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,Asian,3%,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,Black,NA,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,Hispanic,NA,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,Multiracial,NA,Percent of Students who Complete a POG/POL
+Baseline 3% 2% 2% 2% 3% 3%,Baseline,Baseline,Baseline,White,NA,Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,All Students,"4,745",Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,Econ Dis,"1,068",Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,ML (1-4),"1,096",Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,SWD,637,Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,504 Plan,251,Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,Asian,"1,024",Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,Black,NA,Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,Hispanic,NA,Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,Multiracial,NA,Percent of Students who Complete a POG/POL
+"Numerator 4,745 1,068 1,096 637 251 1,024",Numerator,Numerator,Baseline,White,NA,Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,All Students,"176,552",Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,Econ Dis,"57,605",Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,ML (1-4),"48,693",Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,SWD,"26,603",Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,504 Plan,"8,174",Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,Asian,"34,077",Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,Black,NA,Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,Hispanic,NA,Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,Multiracial,NA,Percent of Students who Complete a POG/POL
+"Denominator 176,552 57,605 48,693 26,603 8,174 34,077",Denominator,Denominator,Baseline,White,NA,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,All Students,6%,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,Econ Dis,4%,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,ML (1-4),5%,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,SWD,5%,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,504 Plan,7%,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,Asian,7%,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,Black,NA,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,Hispanic,NA,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,Multiracial,NA,Percent of Students who Complete a POG/POL
+SY 2023-24 6% 4% 5% 5% 7% 7%,SY,SY 2023-24,SY 2023-24,White,NA,Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,All Students,"10,242",Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,Econ Dis,"2,848",Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,ML (1-4),"2,454",Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,SWD,"1,448",Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,504 Plan,630,Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,Asian,"2,359",Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,Black,NA,Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,Hispanic,NA,Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,Multiracial,NA,Percent of Students who Complete a POG/POL
+"Numerator 10,242 2,848 2,454 1,448 630 2,359",Numerator,Numerator,SY 2023-24,White,NA,Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,All Students,"177,135",Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,Econ Dis,"72,412",Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,ML (1-4),"49,531",Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,SWD,"27,807",Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,504 Plan,"9,532",Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,Asian,"33,506",Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,Black,NA,Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,Hispanic,NA,Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,Multiracial,NA,Percent of Students who Complete a POG/POL
+"Denominator 177,135 72,412 49,531 27,807 9,532 33,506",Denominator,Denominator,SY 2023-24,White,NA,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,All Students,10%,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,Econ Dis,7%,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,ML (1-4),8%,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,SWD,8%,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,504 Plan,10%,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,Asian,12%,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,Black,NA,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,Hispanic,NA,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,Multiracial,NA,Percent of Students who Complete a POG/POL
+SY 2024-25 10% 7% 8% 8% 10% 12%,SY,SY 2024-25,SY 2024-25,White,NA,Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,All Students,"17,537",Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,Econ Dis,"4,226",Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,ML (1-4),"4,052",Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,SWD,"2,391",Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,504 Plan,"1,061",Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,Asian,"4,112",Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,Black,NA,Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,Hispanic,NA,Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,Multiracial,NA,Percent of Students who Complete a POG/POL
+"Numerator 17,537 4,226 4,052 2,391 1,061 4,112",Numerator,Numerator,SY 2024-25,White,NA,Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,All Students,"175,616",Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,Econ Dis,"57,477",Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,ML (1-4),"48,765",Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,SWD,"28,294",Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,504 Plan,"10,341",Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,Asian,"33,104",Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,Black,NA,Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,Hispanic,NA,Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,Multiracial,NA,Percent of Students who Complete a POG/POL
+"Denominator 175,616 57,477 48,765 28,294 10,341 33,104",Denominator,Denominator,SY 2024-25,White,NA,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,All Students,29%,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,Econ Dis,28%,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,ML (1-4),28%,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,SWD,28%,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,504 Plan,29%,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,Asian,29%,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,Black,NA,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,Hispanic,NA,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,Multiracial,NA,Percent of Students who Complete a POG/POL
+Target 29% 28% 28% 28% 29% 29%,Target,Target,SY 2024-25,White,NA,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,All Students,Progress,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,Econ Dis,Progress,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,ML (1-4),Progress,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,SWD,Progress,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,504 Plan,Progress,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,Asian,Progress,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,Black,NA,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,Hispanic,NA,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,Multiracial,NA,Percent of Students who Complete a POG/POL
+Performance Progress Progress Progress Progress Progress Progress,Performance,Performance,SY 2024-25,White,NA,Percent of Students who Complete a POG/POL
